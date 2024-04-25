@@ -14,7 +14,7 @@ nav:
 theme:
     name: material
     locale: en
-    custom_dir: overrides
+    #custom_dir: overrides
     features:
       - navigation.tracking
       - navigation.top
