@@ -44,7 +44,22 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.superfences
+   - toc:
+      permalink: true
+      toc_depth: 4
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.snippets  
+  - attr_list
   # More pymdownx extensions...
+extra_css:
+  - css/extra.css
+  - css/prism.css
+extra_javascript:
+  - js/prism.js
 
 extra:
   analytics:
