@@ -4,11 +4,28 @@ nav:
   - About: about.md
   - Docker Containers:
       - Overview: docker-containers.md
-      - Adguard: adguard.md
+      - Traefik: traefik.md
+      - Ghost: ghost.md
+      - Nextcloud: nextcloud.md
+      - Wordpress: wordpress.md
+      - Paperless: paperless.md
+      - Pi-Hole: pi-hole.md
+      - Transmission: torrent.md
+      
       # Additional Docker container pages...
   - Networking:
       - Overview: networking-overview.md
       - GlusterFS: glusterfs.md
+  - Home-Lab:
+      - Overview: overview.md
+      - Hardware:
+          - SBC: sbc.md
+          - X86: x86.md
+      - Software:
+          - FOSS: foss.md
+          - Licensed/Paid: licensed.md
+  - Contact Us: contact.md
+  - Donate: donate.md
   # Additional sections...
 
 theme:
@@ -44,7 +61,7 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.superfences
-   - toc:
+  - toc:
       permalink: true
       toc_depth: 4
   - pymdownx.betterem:
