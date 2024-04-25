@@ -16,7 +16,7 @@ Connect with Linuxpad🧩
 
 Stay engaged with our content:
 
-* [Discord](https://discord.com/.nana12: Join the Discord, meet follow self-hosters.
+* [Discord](https://discord.com/.nana12): Join the Discord, meet follow self-hosters.
 * [Ghost Blog](http://eepurl.com/iNQkk6): Subscribe to our page for regular tech tutorials and walkthroughs. 
 * [Feedback](https://us8.list-manage.com/survey?u=d9fefab1310fe187e815ceca4&id=eb052dfaa6&attribution=false): Your input is valuable to us. Feel free to reach out with suggestions, feedback, or contributions. Thank you for visiting Linuxpad Docs. Dive into our documentation and enhance your tech journey!
 
