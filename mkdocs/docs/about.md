@@ -9,24 +9,11 @@ This repository is a central place for Home-lab demos and examples around contai
 
 ## Available content
 
-### Demo Content
-
-- [__Ghost Blog__]: Quickly deploy and self-host ghost blogging platform.
-- [__Zero Touch Provisioning to EVPN Fabric__](https://github.com/aristanetworks/netdevops-examples/tree/master/ansible/ztp-avd-cvp): Build a complete EVPN/VXLAN fabric using CloudVision and Zero Touch Provisioning process.
-- [__Ansible AVD & CVP Transfer of Information__](https://github.com/aristanetworks/netdevops-examples/tree/master/ansible/avd-cvp-toi): Content to build a Transfer of Information on Arista Validated Design and Cloudvision collection.
+- [__Ghost Blog__](https://tech.nanaoware.online): Quickly deploy and self-host ghost blogging platform.
+- [__Code Server_](https://github.com/coder/code-server): Self-host visual studio code to edit and run apllications.
+- [__Traefik Setup__](https://traefik.io/traefik/): Secure and deploy docker container through traefik.
 - [__Ansible to sync configlets across CV servers__](https://github.com/aristanetworks/netdevops-examples/tree/master/ansible/ansible-sync-configlets): Content to synchronize configlets from one CV server to another. Complete documenation is available on our [EOS Central Knowledge base](https://eos.arista.com/synchronising-cloudvision-portal-configlets-with-ansible/)
 
-### Virtual Labs
-- [__List of some EVE-NG topologies leveraging vEOS and CV__](https://github.com/aristanetworks/netdevops-examples/tree/master/virtual_lab/EVE-NG):
-- [__L3 Leaf-Spine w/ BGP Unnumbered & EVPN VXLAN__](https://github.com/aristanetworks/netdevops-examples/tree/master/virtual_lab/EVE-NG/labs/L3LS_Unnumbered_DCI_Type5): full Layer 3 Leaf-Spine fabric in a 2 datacenter setup with BGP Unnumbered and VXLAN/EVPN
-- [__NSX-T and EVPN in EVE-NG lab__](https://github.com/aristanetworks/netdevops-examples/tree/master/virtual_lab/EVE-NG/labs/NSX-T_EVPN_Type-5): Lab to demonstrate integration of Arista EOS running EVPN with Vmware NSX-T integration.
-
-### Webinar & Presentation content
-
-- [__Network Field Days 22__](https://github.com/aristanetworks/netdevops-examples/tree/master/demo/ansible-batfish-cv-nfd22/): Ansible & Batfish ([NFD22 webpage](https://techfieldday.com/appearance/arista-networks-presents-at-networking-field-day-22/))
-- [__Tech Friday March 2020__](https://github.com/aristanetworks/netdevops-examples/tree/master/demo/tech-friday-march2020/): Lab used during Tech Friday event.
-- [__Network Automation with Ansible & Cloudvision - EMEA Webinar April 2020__](https://github.com/aristanetworks/netdevops-examples/tree/master/demo/emea-2020-ansible-cvp-automation): Build an EVPN/VXLAN Fabric using Ansible & Cloudvision with pot deployment validation using WARD
-- [__Network Field Days 22__](https://github.com/aristanetworks/netdevops-examples/tree/master/demo/ansible-batfish-cv-nfd22/): Ansible & Batfish ([NFD22 webpage](https://techfieldday.com/appearance/arista-networks-presents-at-networking-field-day-22/)).
 
 ## License
 
