@@ -67,8 +67,6 @@ extra_javascript:
 plugins:
   - search:
       lang: en
-  #- git-revision-date-localized:
-      type: date
   # Deactivated due to https://github.com/tikitu/jsmin/issues/33
   # Issue in progress: https://github.com/byrnereese/mkdocs-minify-plugin/issues/15
   # - minify:
@@ -76,7 +74,6 @@ plugins:
   #     minify_js: true
 
 markdown_extensions:
-  #- mdx_truly_sane_lists
   - smarty
   - pymdownx.arithmatex
   - pymdownx.betterem:
