@@ -17,7 +17,7 @@ This repository is a central place for Home-lab demos and examples around contai
 
 ## License
 
-All examples and demos available in this repository are provided under [Apache License](https://github.com/aristanetworks/netdevops-examples/tree/master/LICENSE)
+All examples and demos available in this repository are provided under [Apache License](https://github.com/dagyepong/workspace/blob/main/mkdocs/docs/LICENSE)
 
 # Ask question or report issue
 
