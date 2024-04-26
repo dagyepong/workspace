@@ -1,84 +1,102 @@
-site_name: Linuxpad Docs
+site_name: Linuxpad
+site_author: Nana Oware Personal Blog
+site_description: A List of Linux Tutorials in devops world
+docs_dir: docs/
+
+copyright: Copyright &copy; 2019 - 2024 Linuxpad
+repo_name: 'home-lab'
+repo_url: 
+use_directory_urls: true
 nav:
-  - Home: index.md
-  - About: about.md
-  - Docker Containers:
-      - Overview: docker-containers.md
-      - Traefik: traefik.md
-      - Ghost: ghost.md
-      - Nextcloud: nextcloud.md
-      - Wordpress: wordpress.md
-      - Paperless: paperless.md
-      - Pi-Hole: pi-hole.md
-      - Transmission: torrent.md
-      
-      # Additional Docker container pages...
-  - Networking:
-      - Overview: networking-overview.md
-      - GlusterFS: glusterfs.md
-  - Home-Lab:
-      - Overview: overview.md
-      - Hardware:
-          - SBC: sbc.md
-          - X86: x86.md
-      - Software:
-          - FOSS: foss.md
-          - Licensed/Paid: licensed.md
-  - Contact Us: contact.md
-  - Donate: donate.md
-  # Additional sections...
+  - Arista Netdevops Community: index.md
+  - Arista Networks: arista.md
+  - Arista EOS+: eosplus.md
+  - Existing Netdevops Examples: github.md
+  - About:
+    - Ansible Cloudvision: https://cvp.avd.sh
+    - Arista Validated Design: https://www.avd.sh
+    - Arista Automation Community: https://github.com/arista-netdevops-community
+
 
 theme:
-    name: material
-    locale: en
-    #custom_dir: overrides
-    features:
-      - navigation.tracking
-      - navigation.top
-      - search.suggest
-      - search.highlight
-      - search.suggest
-      - search.highlight
-    palette:
-      - scheme: default
-        toggle:
-          icon: material/toggle-switch-off-outline
-          name: Switch to dark mode
-      - scheme: slate
-        toggle:
-          icon: material/toggle-switch
-          name: Switch to light mode
-          primary: green
-          accent: ambe
+  name: material
+  features:
+    - navigation.instant
+    - navigation.top
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - python
+    - shell
+  icon:
+    repo: fontawesome/brands/github
+    logo: fontawesome/solid/book
+  favicon: docs/_media/favicon.ico
+  font:
+    code: Fira Mono
+  language: en
+  include_search_page: false
+  search_index_only: true
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+extra_css:
+  - docs/stylesheets/extra.material.css
+  - stylesheets/extra.css
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - stylesheets/tables.js
+  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/highlight.min.js
+  - stylesheets/highlight.js
+
+plugins:
+  - search:
+      lang: en
+  - git-revision-date-localized:
+      type: date
+  # Deactivated due to https://github.com/tikitu/jsmin/issues/33
+  # Issue in progress: https://github.com/byrnereese/mkdocs-minify-plugin/issues/15
+  # - minify:
+  #     minify_html: true
+  #     minify_js: true
+
 markdown_extensions:
-  - abbr
-  - admonition
-  - attr_list
-  # Additional Markdown extensions...
-  - pymdownx.arithmatex:
-      generic: true
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  - pymdownx.superfences
-  - toc:
-      permalink: true
-      toc_depth: 4
+  - mdx_truly_sane_lists
+  - smarty
+  - pymdownx.arithmatex
   - pymdownx.betterem:
       smart_enable: all
-  - pymdownx.mark
-  - pymdownx.tilde
+  - pymdownx.caret
+  - pymdownx.critic
   - pymdownx.details
-  - pymdownx.snippets  
-  - attr_list
-  # More pymdownx extensions...
-extra_css:
-  - css/extra.css
-  - css/prism.css
-extra_javascript:
-  - js/prism.js
-
-extra:
-  analytics:
-    provider: google
-    property: G-1XXXXXX
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - fontawesome_markdown
+  - admonition
+  - codehilite:
+      guess_lang: true
+  - toc:
+      separator: "-"
+      # permalink: "#"
+      permalink: true
+      baselevel: 3
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.snippets:
+      base_path: 'ansible_collections/arista/cvp/'
