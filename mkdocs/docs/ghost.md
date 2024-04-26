@@ -6,7 +6,7 @@ Ghost is a powerful app for professional publishers to create, share, and grow a
 
 #### Docker Compose Configuration for Ghost Blog¶
 
-This Docker Compose setup deploys Ghost application in a Docker container, allowing you to have a personalized blog to share ideas to people.
+This Docker Compose setup deploys Ghost application in a Docker container, allowing you to have a personalized blog to share ideas with like minds.
 
 Docker Compose File (docker-compose.yml)¶
 
@@ -85,23 +85,27 @@ networks:
     external: true
 ```
 
- Key Components of the Configuration¶
+##  Key Components of the Configuration¶
 
 Service: Ghost¶
 
-Image: ghcr.io/benphelps/homepage:latest is the Docker image used for Homepage.
+Image: ghost:5-alpine is the Docker image used for Ghost.
 Ports:
-3000:3000 maps port 3000 on the host to port 3000 in the container, where the Homepage web interface is accessible.
+2368:2368 maps port 2368 on the host to port 2368 in the container, where Ghost Blog web interface is accessible. You access the admin page with http://ip:2368/ghost to set it up.
 Volumes:
-./config:/app/config: Maps a local configuration directory to the container's configuration directory.
-/var/run/docker.sock:/var/run/docker.sock:ro: (Optional) Allows Homepage to integrate with Docker, provided read-only.
-Deploying Homepage¶
+${DOCKER_VOLUME_STORAGE:-/mnt/docker-volumes}/ghost/content:/var/lib/ghost/content Maps a local configuration directory to the container's configuration directory.
+This alos allows Ghost to integrate with Docker, provided read-only.
 
-Ensure that the local ./config directory exists and contains your configuration files.
+### Deploying Ghost¶
+
+Create a directory named ghost on your system to store your configuration files.
 Save the Docker Compose configuration in a docker-compose.yml file.
-Run docker-compose up -d to start Homepage in detached mode.
-Access Homepage by navigating to http://<host-ip>:3000.
-Configuring and Using Homepage¶
+Run docker-compose up -d to start Ghost in detached mode.
+Access Homepage by navigating to http://<host-ip>:2368. This compose usesa traefik as the reverse proxy and, if you plan to expose this container to the web, adjust the url to your doamin name. 
 
-After deployment, you can customize Homepage through the configuration files in your local ./config directory. This allows you to personalize the start page with your preferred links and services.
+### Configuring and Using Homepage¶
+
+After deployment, you can customize your blog through the admin page by visiting http://ip:2368/admin or if you expose ghost to the web, https://ghost.yourdoamin/ghost.
+
+That's it!!
 
