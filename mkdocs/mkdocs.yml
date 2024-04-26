@@ -35,8 +35,7 @@ theme:
     - shell
   icon:
     repo: fontawesome/brands/github
-    logo: fontawesome/solid/book
-  favicon: docs/_media/favicon.ico
+    logo: fontawesome/solid/books
   font:
     code: Fira Mono
   language: en
@@ -100,5 +99,4 @@ markdown_extensions:
       baselevel: 3
   - pymdownx.highlight
   - pymdownx.superfences
-  - pymdownx.snippets:
-      base_path: 'ansible_collections/arista/cvp/'
+  
