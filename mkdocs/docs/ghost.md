@@ -89,10 +89,10 @@ networks:
 
 Service: Ghost¶
 
-Image: ghost:5-alpine is the Docker image used for Ghost.
-Ports:
-2368:2368 maps port 2368 on the host to port 2368 in the container, where Ghost Blog web interface is accessible. You access the admin page with http://ip:2368/ghost to set it up.
-Volumes:
+* Image: ghost:5-alpine is the Docker image used for Ghost.
+* Ports:
+2368:2368 maps port 2368 on the host to port 2368 in the container, where Ghost Blog web interface is accessible.
+* Volumes:
 ${DOCKER_VOLUME_STORAGE:-/mnt/docker-volumes}/ghost/content:/var/lib/ghost/content Maps a local configuration directory to the container's configuration directory.
 This alos allows Ghost to integrate with Docker, provided read-only.
 
