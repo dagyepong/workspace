@@ -28,20 +28,21 @@ theme:
   features:
     - navigation.instant
     - navigation.top
+    - navigation.tracking
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.suggest
+    - search.highlight
   highlightjs: true
   hljs_languages:
     - yaml
     - python
     - shell
-  icon:
-    repo: fontawesome/brands/github
-    logo: fontawesome/solid/books
-  font:
-    code: Fira Mono
-  language: en
-  include_search_page: false
-  search_index_only: true
-  palette:
+    name: material
+    locale: en 
+    palette:
+    palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       toggle:
@@ -52,6 +53,13 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to light mode
+        primary: green
+        accent: amber
+  font:
+    code: Fira Mono
+  language: en
+  include_search_page: false
+  search_index_only: true
 
 extra_css:
   - docs/stylesheets/extra.material.css
@@ -62,15 +70,6 @@ extra_javascript:
   - stylesheets/tables.js
   - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/highlight.min.js
   - stylesheets/highlight.js
-
-plugins:
-  - search:
-      lang: en
-  # Deactivated due to https://github.com/tikitu/jsmin/issues/33
-  # Issue in progress: https://github.com/byrnereese/mkdocs-minify-plugin/issues/15
-  # - minify:
-  #     minify_html: true
-  #     minify_js: true
 
 markdown_extensions:
   - smarty
@@ -88,7 +87,6 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
-  - fontawesome_markdown
   - admonition
   - codehilite:
       guess_lang: true
