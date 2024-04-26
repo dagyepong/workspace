@@ -39,7 +39,6 @@ theme:
     - yaml
     - python
     - shell
-    name: material
     locale: en 
     palette:
     - media: "(prefers-color-scheme: light)"
