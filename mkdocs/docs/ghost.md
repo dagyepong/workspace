@@ -96,14 +96,14 @@ Service: Ghost¶
 ${DOCKER_VOLUME_STORAGE:-/mnt/docker-volumes}/ghost/content:/var/lib/ghost/content Maps a local configuration directory to the container's configuration directory.
 This alos allows Ghost to integrate with Docker, provided read-only.
 
-### Deploying Ghost¶
+### Deploying Ghost Blog¶
 
 Create a directory named ghost on your system to store your configuration files.
 Save the Docker Compose configuration in a docker-compose.yml file.
-Run docker-compose up -d to start Ghost in detached mode.
+Run ```yaml docker-compose up -d``` to start Ghost in detached mode.
 Access Homepage by navigating to http://<host-ip>:2368. This compose usesa traefik as the reverse proxy and, if you plan to expose this container to the web, adjust the url to your doamin name. 
 
-### Configuring and Using Homepage¶
+### Configuring and Using Ghost Blog¶
 
 After deployment, you can customize your blog through the admin page by visiting http://ip:2368/admin or if you expose ghost to the web, https://ghost.yourdoamin/ghost.
 
