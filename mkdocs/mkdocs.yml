@@ -25,6 +25,7 @@ nav:
 
 theme:
   name: material
+  locale: en
   features:
     - navigation.instant
     - navigation.top
@@ -38,8 +39,7 @@ theme:
   hljs_languages:
     - yaml
     - python
-    - shell
-  locale: en 
+    - shell 
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
