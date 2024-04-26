@@ -1,6 +1,6 @@
 # Welcome to Linuxpad Docs🧩
 
-Welcome to the official documentation hub for Linuxpad, your go-to resource for all things related to self-hosting, Docker, and tech tutorials as featured on the the site. Our documentation aims to be a practical companion to the video content, offering detailed guides, configuration files, and more.
+Welcome to the official documentation hub for Linuxpad, your go-to resource for all things related to self-hosting, Docker, and tech tutorials as featured on the the site. Our documentation aims to be a practical companion to the web content, offering detailed guides, configuration files, and more.
 
 ## What You'll Find Here🧩
 
