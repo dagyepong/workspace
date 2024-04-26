@@ -3,7 +3,7 @@ site_author: Nana Oware Personal Blog
 site_description: A List of Linux Tutorials in devops world
 docs_dir: docs/
 
-copyright: Copyright &copy; 2019 - 2024 Linuxpad
+copyright: Copyright &copy; 2024 Linuxpad
 repo_name: 'home-lab'
 repo_url: https://github.com/dagyepong
 use_directory_urls: true
