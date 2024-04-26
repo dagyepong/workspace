@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/arista-CVP%20Automation-blue) ![](https://img.shields.io/badge/arista-EOS%20Automation-blue) ![GitHub](https://img.shields.io/github/license/)
+![](https://img.shields.io/badge/arista-CVP%20Automation-blue) ![](https://img.shields.io/badge/arista-EOS%20Automation-blue)  ![GitHub](https://img.shields.io/github/license/aristanetworks/netdevops-examples)
 
 # Linuxpad
 
