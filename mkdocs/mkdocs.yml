@@ -5,18 +5,23 @@ docs_dir: docs/
 
 copyright: Copyright &copy; 2019 - 2024 Linuxpad
 repo_name: 'home-lab'
-repo_url: 
+repo_url: https://github.com/dagyepong
 use_directory_urls: true
 nav:
-  - Arista Netdevops Community: index.md
-  - Arista Networks: arista.md
-  - Arista EOS+: eosplus.md
-  - Existing Netdevops Examples: github.md
-  - About:
-    - Ansible Cloudvision: https://cvp.avd.sh
-    - Arista Validated Design: https://www.avd.sh
-    - Arista Automation Community: https://github.com/arista-netdevops-community
-
+  - Home: index.md
+  - Docker Containers:
+      - Ghost Blog: ghost.md
+      - Code-Server: code-server.md
+      - Traefik: traefik.md
+      - Open-Resume: open-resume.md
+      - Uptime-Kuma: uptime.md
+      - Dockge: dockge.md
+  - Linux Tutorials:
+      - Proxomox setup: setup.md
+      - Jellyfin: jellyfin.md
+      - Plex: plex.md
+      - File-Server: cockpit.md
+  - About: about.md
 
 theme:
   name: material
