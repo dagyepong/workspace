@@ -11,7 +11,7 @@ This repository is a central place for Home-lab demos and examples around contai
 
 ### Demo Content
 
-- [__Arista Validated Design__](https://github.com/aristanetworks/netdevops-examples/tree/master/ansible/avd-evpn-l3ls-1/): Generate EOS EVPN/VXLAN Fabric deployed using CloudVision and with pre/post deployment tests.
+- [__Ghost Blog__]: Quickly deploy and self-host ghost blogging platform.
 - [__Zero Touch Provisioning to EVPN Fabric__](https://github.com/aristanetworks/netdevops-examples/tree/master/ansible/ztp-avd-cvp): Build a complete EVPN/VXLAN fabric using CloudVision and Zero Touch Provisioning process.
 - [__Ansible AVD & CVP Transfer of Information__](https://github.com/aristanetworks/netdevops-examples/tree/master/ansible/avd-cvp-toi): Content to build a Transfer of Information on Arista Validated Design and Cloudvision collection.
 - [__Ansible to sync configlets across CV servers__](https://github.com/aristanetworks/netdevops-examples/tree/master/ansible/ansible-sync-configlets): Content to synchronize configlets from one CV server to another. Complete documenation is available on our [EOS Central Knowledge base](https://eos.arista.com/synchronising-cloudvision-portal-configlets-with-ansible/)
