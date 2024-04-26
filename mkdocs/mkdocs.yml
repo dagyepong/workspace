@@ -42,7 +42,6 @@ theme:
     name: material
     locale: en 
     palette:
-    palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       toggle:
