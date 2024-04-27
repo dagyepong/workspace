@@ -21,3 +21,9 @@ Stay engaged with our content:
 * [Feedback](https://us8.list-manage.com/survey?u=d9fefab1310fe187e815ceca4&id=eb052dfaa6&attribution=false): Your input is valuable to us. Feel free to reach out with suggestions, feedback, or contributions. Thank you for visiting Linuxpad Docs. Dive into our documentation and enhance your tech journey!
 
 Linuxpad Docs - Enhancing your self-hosting and Docker experiences through practical documentation.
+
+!!! pro-tip "Pro-Tip"
+
+    When you learn teach, When you get, give.
+    
+    
