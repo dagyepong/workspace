@@ -26,3 +26,8 @@ Please open an issue on Github this is the fastest way to get an answer.
 # Contribute
 
 Contributing pull requests are gladly welcomed for this repository. If you are planning a big change, please start a discussion first to make sure we’ll be able to merge it.
+
+
+???+ Tip
+
+    Subscribe to our content, and get daily updates on home-lab stuff. You can also follow my socail links for updates.
