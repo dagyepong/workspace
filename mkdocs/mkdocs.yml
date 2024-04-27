@@ -39,8 +39,8 @@ theme:
   hljs_languages:
     - yaml
     - python
-    - shell 
-   icon:
+    - shell
+  icon:
     admonition:
       note: octicons/tag-16
       abstract: octicons/checklist-16
