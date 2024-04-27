@@ -15,7 +15,7 @@ services:
         ports:
             - '3038:3000'
 ```
-To access the web ui, got to http://ip:3038.
+To access the web ui, go to http://ip:3038.
 
 ??? note
 
