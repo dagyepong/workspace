@@ -20,5 +20,5 @@ To access the web ui, got to http://ip:3038.
 ??? note
 
     Open Resume can be used to share your resume on the go to recruiters.
-    This makes it some much easy for professionals to save time and effort on creating a new resume for a career change
+    This makes it some much easy for professionals to save time and effort on creating a new resume for a career change.
     Feel free to change the ports incase 3038 is already mapped to another container.
