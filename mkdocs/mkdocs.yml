@@ -28,7 +28,7 @@ theme:
   locale: en
   features:
     - navigation.instant
-    - navigation.sections
+    - navigation.tabs
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
