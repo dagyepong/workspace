@@ -59,14 +59,13 @@ theme:
       bug: octicons/bug-16
       example: octicons/beaker-16
       quote: octicons/quote-16
- 
   palette:
     - scheme: default
         primary: indigo
         toggle:
           icon: material/weather-night
           name: Switch to dark mode
-    - scheme: slate 
+    - scheme: slate
         primary: teal
         accent: purple
         toggle:
