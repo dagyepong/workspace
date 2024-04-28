@@ -28,7 +28,6 @@ theme:
   locale: en
   features:
     - navigation.instant
-    - navigation.tabs
     - navigation.sections
     - content.tabs.link
     - content.code.annotation
@@ -101,7 +100,8 @@ extra_javascript:
 
 markdown_extensions:
   - smarty
-  - pymdownx.arithmatex
+  - pymdownx.arithmatex:
+      generic: true
   - pymdownx.betterem:
       smart_enable: all
   - pymdownx.caret
@@ -123,6 +123,7 @@ markdown_extensions:
       # permalink: "#"
       permalink: true
       baselevel: 3
-  - pymdownx.highlight
+  - pymdownx.highlight:
+      anchor_linenmus: true
   - pymdownx.superfences
   
