@@ -80,6 +80,15 @@ theme:
   include_search_page: false
   search_index_only: true
 
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/dagyepong
+    - icon: fontawesome/brands/discord
+      link:
+    - icon: fontawesome/brands/linkedin
+      link:
+
 extra_css:
   - docs/stylesheets/extra.material.css
   - stylesheets/extra.css
