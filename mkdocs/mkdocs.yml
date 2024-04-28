@@ -28,6 +28,11 @@ theme:
   locale: en
   features:
     - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
     - navigation.top
     - navigation.tracking
     - navigation.top
@@ -56,17 +61,19 @@ theme:
       quote: octicons/quote-16
   palette:
     - media: "(prefers-color-scheme: light)"
-      scheme: default
+      scheme: slate
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
+        primary: green
+        accent: amber
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
         icon: material/weather-night
         name: Switch to light mode
-        primary: green
-        accent: amber
+        primary: teal
+        accent: purple
   font:
     code: Fira Mono
   language: en
