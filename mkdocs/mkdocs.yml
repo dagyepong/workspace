@@ -61,16 +61,16 @@ theme:
       quote: octicons/quote-16
   palette:
     - scheme: default
-        primary: indigo
-        toggle:
-          icon: material/weather-night
-          name: Switch to dark mode
+      primary: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
     - scheme: slate
-        primary: teal
-        accent: purple
-        toggle:
-          icon: material/weather-sunny
-          name: Switch to light mode
+      primary: teal
+      accent: purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
   font:
     code: Fira Mono
   language: en
