@@ -60,17 +60,23 @@ theme:
       example: octicons/beaker-16
       quote: octicons/quote-16
   palette:
-    - scheme: default
-      primary: indigo
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: rdeville-light
+      primary: rdeville-green-light
+      accent: rdeville-orange-light
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
-    - scheme: slate
-      primary: teal
-      accent: purple
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: rdeville-dark
+      primary: rdeville-green-dark
+      accent: rdeville-orange-dark
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
+
   font:
     code: Fira Mono
   language: en
