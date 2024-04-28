@@ -59,24 +59,17 @@ theme:
       bug: octicons/bug-16
       example: octicons/beaker-16
       quote: octicons/quote-16
+theme:
   palette:
-    # Light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: rdeville-light
-      primary: rdeville-green-light
-      accent: rdeville-orange-light
+    - scheme: default
+      primary: pink
       toggle:
-        icon: material/weather-night
+        icon: material/brightness-7
         name: Switch to dark mode
-    # Dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: default
-      primary: rdeville-green-dark
-      accent: rdeville-orange-dark
+    - scheme: slate
       toggle:
-        icon: material/weather-sunny
+        icon: material/brightness-4
         name: Switch to light mode
-
   font:
     code: Fira Mono
   language: en
