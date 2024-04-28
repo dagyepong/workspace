@@ -83,6 +83,35 @@ theme:
   include_search_page: false
   search_index_only: true
 
+extra:
+  social:
+    - icon: fontawesome/solid/globe
+      link: https://romaindeville.fr
+      name: R. Deville Wesite
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:contact@romaindeville.fr
+      name: "Send mail to @rdeville"
+    - icon: fontawesome/solid/book-reader
+      link: https://docs.romaindeville.fr
+      name: All Projects Home Documentation
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/romaindeville
+      name: "@rdeville on LinkedIn"
+    - icon: fontawesome/brands/docker
+      link: https://hub.docker.com/u/rdeville
+      name: "@rdeville on Docker Hub"
+    - icon: fontawesome/brands/git-alt
+      link: https://framagit.org/rdeville.public/
+      name: "@rdeville on Framagit"
+    - icon: fontawesome/brands/gitlab
+      link: https://gitlab.com/rdeville.public/
+      name: "@rdeville on Gitlab"
+    - icon: fontawesome/brands/github
+      link: https://github.com/rdeville-public/
+      name: "@rdeville on Github"
+  version:
+    provider: mike
+
 
 extra_css:
   - docs/stylesheets/extra.material.css
