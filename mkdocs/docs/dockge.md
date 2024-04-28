@@ -34,8 +34,8 @@ cd /opt/dockge
 ```
 ??? note
 
-    The default volume is mapped to '/opt/stacks/'.
-    Unless you want to keep this, you can always change the mapping of the volume to your desired location. eg: '/home/$USER/dockge.
+    The default volume is mapped to /opt/stacks/.
+    Unless you want to keep this, you can always change the mapping of the volume to your desired location. eg: /home/$USER/dockge.
 
 
 # Create a docker-compose.yml file, and paste this content
