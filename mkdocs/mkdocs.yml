@@ -60,12 +60,10 @@ theme:
       quote: octicons/quote-16
   palette:
     - media: "(prefers-color-scheme: light)"
-      scheme: slate
+      scheme: default
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
-        primary: green
-        accent: amber
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
