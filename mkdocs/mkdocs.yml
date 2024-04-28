@@ -124,6 +124,6 @@ markdown_extensions:
       permalink: true
       baselevel: 3
   - pymdownx.highlight:
-      anchor_linenmus: true
+      anchor_linenums: true
   - pymdownx.superfences
   
