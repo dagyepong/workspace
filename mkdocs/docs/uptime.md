@@ -29,10 +29,6 @@ docker run -d --restart=always -p 3001:3001 -v uptime-kuma:/app/data --name upti
 ## Default Port
 Uptime Kuma is now running on http://localhost:3001
 
-
-
-<img src="https://uptime.kuma.pet/sponsors?v=6" alt />
-
 ## Screenshots
 
 Light Mode:
