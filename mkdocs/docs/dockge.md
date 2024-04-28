@@ -79,3 +79,21 @@ docker compose pull && docker compose up -d
 
 ![](https://github.com/louislam/dockge/assets/1336778/a4478d23-b1c4-4991-8768-1a7cad3472e3)
 
+
+```html
+<script src="https://giscus.app/client.js"
+        data-repo="dagyepong/100days"
+        data-repo-id="R_kgDOHGzhRw"
+        data-category="General"
+        data-category-id="DIC_kwDOHGzhR84Ce9m7"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="dark"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
+```
