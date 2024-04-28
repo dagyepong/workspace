@@ -31,6 +31,7 @@ theme:
     - navigation.sections
     - header.autohide
     - content.tabs.link
+    - navigation.tabs.sticky
     - content.code.annotation
     - content.code.copy
     - navigation.top
@@ -75,6 +76,15 @@ theme:
   language: en
   include_search_page: false
   search_index_only: true
+
+extra:
+  consent:
+    title: Cookie consent
+    description:
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.  
 
 
 extra_css:
