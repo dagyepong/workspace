@@ -9,7 +9,7 @@ This repository is a central place for Home-lab demos and examples around contai
 
 ## Available content
 
-- [__Ghost Blog__](https://tech.nanaoware.online): Quickly deploy and self-host ghost blogging platform.
+- [__Ghost Blog__](https://linuxpad.nanaoware.online): Quickly deploy and self-host ghost blogging platform.
 - [__Code Server__](https://github.com/coder/code-server): Self-host visual studio code to edit and run apllications.
 - [__Traefik Setup__](https://traefik.io/traefik/): Secure and deploy docker container through traefik.
 - [__Ansible to sync configlets across CV servers__](https://github.com/aristanetworks/netdevops-examples/tree/master/ansible/ansible-sync-configlets): Content to synchronize configlets from one CV server to another. Complete documenation is available on our [EOS Central Knowledge base](https://eos.arista.com/synchronising-cloudvision-portal-configlets-with-ansible/)
