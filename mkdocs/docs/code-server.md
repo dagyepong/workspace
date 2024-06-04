@@ -10,7 +10,7 @@ This Docker Compose setup deploys code-server in a Docker container, ensuring a 
 
 Docker Compose File (docker-compose.yml)¶
 ```yaml
-version: "2.1"
+version: "3.8"
 
 services:
 
@@ -73,22 +73,3 @@ ${DOCKER_VOLUME_STORAGE:-/mnt/docker-volumes}/vscode/config:/config Maps the loc
 unless-stopped: Ensures the container restarts automatically unless explicitly stopped. 
 
 You can decide to run this container through traefik or disable it. You'll need to change the ```SUDO_PASSWORD``` in the environment variable to your liking.
-
-
-```html
-<script src="https://giscus.app/client.js"
-        data-repo="dagyepong/100days"
-        data-repo-id="R_kgDOHGzhRw"
-        data-category="[ENTER CATEGORY NAME HERE]"
-        data-category-id="[ENTER CATEGORY ID HERE]"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="cobalt"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>
-```
