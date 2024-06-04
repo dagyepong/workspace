@@ -66,9 +66,29 @@ ${DOCKER_VOLUME_STORAGE:-/mnt/docker-volumes}/vscode/config:/config Maps the loc
 
 * Ports¶
 8443:8443: Web GUI.
+  
 
 * Restart Policy¶
 
 unless-stopped: Ensures the container restarts automatically unless explicitly stopped. 
 
 You can decide to run this container through traefik or disable it. You'll need to change the ```SUDO_PASSWORD``` in the environment variable to your liking.
+
+
+```html
+<script src="https://giscus.app/client.js"
+        data-repo="dagyepong/100days"
+        data-repo-id="R_kgDOHGzhRw"
+        data-category="[ENTER CATEGORY NAME HERE]"
+        data-category-id="[ENTER CATEGORY ID HERE]"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="cobalt"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
+```
