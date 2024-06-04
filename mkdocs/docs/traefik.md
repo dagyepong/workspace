@@ -40,7 +40,8 @@ docker run -d \
   traefik:v2.2
   ```
 
-## Running Traefik Container
+### **Running Traefik Container**
+
 You'll have to create two configuration files as stated in the compose file as traefik.toml and traefik_dynamic.toml.
 Adjust both files with the following details as follows:
 * traefik.toml
