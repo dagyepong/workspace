@@ -1,0 +1,11 @@
+sudo xbps-install -S virt-manager libvirt qemu
+Start the services that are created by these packages:
+
+sudo ln -s /etc/sv/libvirtd /var/service
+sudo ln -s /etc/sv/virtlockd /var/service
+sudo ln -s /etc/sv/virtlogd /var/service
+
+
+Making sure your user is part of the libvirt group:
+
+sudo gpasswd -a "$USER" libvirt
