@@ -1,0 +1,14 @@
+
+
+   ###** Run bash pia-linux-<version>-<revision>.run -- --skip-service**
+
+    Create a file /etc/sv/piavpn/run
+//
+#!/bin/sh
+
+exec /opt/piavpn/bin/pia-daemon
+//
+
+chmod +x /etc/sv/piavpn/run
+
+ln -s /etc/sv/piavpn /var/service
