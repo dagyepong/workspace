@@ -1,0 +1,10 @@
+2025-06-10 11:38:38.579 [info] ComputeTargetPlatform: linux-x64
+2025-06-10 11:38:42.951 [info] ComputeTargetPlatform: linux-x64
+2025-06-10 11:38:46.185 [info] Getting Manifest... github.copilot
+2025-06-10 11:38:46.940 [info] Installing extension: github.copilot {"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nana/.vscode/extensions/extensions.json","path":"/home/nana/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-06-10 11:38:48.966 [info] Getting Manifest... github.copilot-chat
+2025-06-10 11:39:41.130 [info] Extension signature verification result for github.copilot: Success. Internal Code: 0. Executed: true. Duration: 1944ms.
+2025-06-10 11:39:42.264 [info] Extracted extension to file:///home/nana/.vscode/extensions/github.copilot-1.331.0: github.copilot
+2025-06-10 11:39:42.283 [info] Renamed to /home/nana/.vscode/extensions/github.copilot-1.331.0
+2025-06-10 11:39:42.322 [info] Marked extension as removed github.copilot-1.330.0
+2025-06-10 11:39:42.408 [info] Extension installed successfully: github.copilot vscode-userdata:/home/nana/.vscode/extensions/extensions.json

@@ -1,0 +1,30 @@
+2025-06-06 01:12:03.041 [warning] /home/nana/.ssh/config: ENOENT: no such file or directory, open '/home/nana/.ssh/config'
+2025-06-06 01:12:03.041 [info] [Activation] Extension version: 0.110.0
+2025-06-06 01:12:03.041 [info] [TemporaryState] Error in initialization: Unable to delete nonexistent file 'vscode-userdata:/home/nana/.config/Code/User/globalStorage/github.vscode-pull-request-github/temp'
+2025-06-06 01:12:24.969 [info] [Activation] Looking for git repository
+2025-06-06 01:12:24.974 [info] [Activation] Found 0 repositories during activation
+2025-06-06 01:12:24.974 [info] [Activation] Git repository found, initializing review manager and pr tree view.
+2025-06-06 01:12:24.984 [info] [GitAPI] Registering git provider
+2025-06-06 01:18:25.528 [info] [Authentication] Creating hub for .com
+2025-06-06 01:18:25.540 [info] [Authentication] Creating hub for .com
+2025-06-06 01:19:15.978 [warning] /home/nana/.ssh/config: ENOENT: no such file or directory, open '/home/nana/.ssh/config'
+2025-06-06 01:19:15.978 [info] [Activation] Extension version: 0.110.0
+2025-06-06 01:19:16.002 [info] [Authentication] Creating hub for .com
+2025-06-06 01:19:16.113 [info] [Activation] Looking for git repository
+2025-06-06 01:19:16.113 [info] [Activation] Found 0 repositories during activation
+2025-06-06 01:19:16.113 [info] [Activation] Git repository found, initializing review manager and pr tree view.
+2025-06-06 01:19:22.176 [info] [GitAPI] Registering git provider
+2025-06-06 01:19:24.558 [info] [GitAPI] Repository file:///home/nana/Documents/Home-lab has been opened
+2025-06-06 01:19:27.981 [info] [Review+0] Validate state in progress
+2025-06-06 01:19:27.981 [info] [Review+0] Validating state...
+2025-06-06 01:19:27.981 [info] [FolderRepositoryManager+0] Cannot updates repositories as git is uninitialized
+2025-06-06 01:19:27.981 [info] [Activation] Repo state for file:///home/nana/Documents/Home-lab changed.
+2025-06-06 01:19:27.981 [info] [Activation] Repo file:///home/nana/Documents/Home-lab has already been setup.
+2025-06-06 01:19:43.346 [info] [Activation] Git initialization state changed: state=initialized
+2025-06-06 01:19:43.346 [info] [Review+0] Validate state in progress
+2025-06-06 01:19:43.346 [info] [Review+0] Validating state...
+2025-06-06 01:19:43.560 [info] [FolderRepositoryManager+0] Found GitHub remote for folder /home/nana/Documents/Home-lab
+2025-06-06 01:19:44.142 [info] [FolderRepositoryManager+0] Trying to use globalState for assignableUsers.
+2025-06-06 01:19:44.458 [info] [Review+0] No matching pull request metadata found locally for current branch main
+2025-06-06 01:19:44.525 [info] [FolderRepositoryManager+0] GlobalState does not exist for assignableUsers.
+2025-06-06 01:19:44.853 [info] [Review+0] No matching pull request metadata found on GitHub for current branch main

@@ -1,0 +1,36 @@
+2025-06-21 01:00:12.687 [info] Using the Electron fetcher.
+2025-06-21 01:00:12.687 [info] Initializing Git extension service.
+2025-06-21 01:00:12.687 [info] Successfully activated the vscode.git extension.
+2025-06-21 01:00:12.687 [info] Enablement state of the vscode.git extension: true.
+2025-06-21 01:00:12.687 [info] Successfully registered Git commit message provider.
+2025-06-21 01:00:15.679 [info] Logged in as dagyepong
+2025-06-21 01:00:21.216 [info] Got Copilot token for dagyepong
+2025-06-21 01:00:21.647 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-21 01:00:21.660 [info] Registering default platform agent...
+2025-06-21 01:00:21.672 [info] Successfully activated the GitHub.vscode-pull-request-github extension.
+2025-06-21 01:00:21.672 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2025-06-21 01:00:21.672 [info] Successfully registered GitHub PR title and description provider.
+2025-06-21 01:00:21.672 [info] Successfully registered GitHub PR reviewer comments provider.
+2025-06-21 01:00:21.883 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-21 01:00:22.392 [info] Fetched model metadata in 1142ms de1dcb6d-a1bb-4f33-9522-2e56028c4be7
+2025-06-21 01:00:22.438 [info] activationBlocker from 'languageModelAccess' took for 9312ms
+2025-06-21 01:30:26.472 [info] Logged in as dagyepong
+2025-06-21 01:30:27.357 [info] Got Copilot token for dagyepong
+2025-06-21 01:30:27.395 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-21 01:30:27.449 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-21 01:40:58.986 [info] Using the Electron fetcher.
+2025-06-21 01:40:58.986 [info] Initializing Git extension service.
+2025-06-21 01:40:58.986 [info] Successfully activated the vscode.git extension.
+2025-06-21 01:40:58.986 [info] Enablement state of the vscode.git extension: true.
+2025-06-21 01:40:58.986 [info] Successfully registered Git commit message provider.
+2025-06-21 01:41:01.300 [info] Logged in as dagyepong
+2025-06-21 01:41:02.288 [info] Got Copilot token for dagyepong
+2025-06-21 01:41:02.920 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-21 01:41:02.931 [info] Registering default platform agent...
+2025-06-21 01:41:02.933 [info] Successfully activated the GitHub.vscode-pull-request-github extension.
+2025-06-21 01:41:02.933 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2025-06-21 01:41:02.933 [info] Successfully registered GitHub PR title and description provider.
+2025-06-21 01:41:02.933 [info] Successfully registered GitHub PR reviewer comments provider.
+2025-06-21 01:41:02.983 [info] Fetched model metadata in 644ms 4f960cb5-1728-4c84-82fa-c721ed8d3ba9
+2025-06-21 01:41:03.036 [info] activationBlocker from 'languageModelAccess' took for 4002ms
+2025-06-21 01:41:03.071 [info] BYOK: Copilot Chat known models list fetched successfully.

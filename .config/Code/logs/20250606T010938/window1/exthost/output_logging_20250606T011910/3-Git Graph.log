@@ -1,0 +1,9 @@
+[2025-06-06 01:19:22.501] Starting Git Graph ...
+[2025-06-06 01:19:22.717] Using git (version: 2.49.0)
+[2025-06-06 01:19:22.736] Started Git Graph - Ready to use!
+[2025-06-06 01:19:22.740] Searching workspace for new repos ...
+[2025-06-06 01:19:22.826] > git rev-parse --show-toplevel
+[2025-06-06 01:19:23.366] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"
+[2025-06-06 01:19:23.454] Added new repo: /home/nana/Documents/Home-lab
+[2025-06-06 01:19:24.302] Completed searching workspace for new repos
+[2025-06-06 01:19:24.303] Showing "Git Graph" Status Bar Item

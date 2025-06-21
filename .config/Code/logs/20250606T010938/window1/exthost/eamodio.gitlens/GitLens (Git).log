@@ -1,0 +1,4 @@
+2025-06-06 01:18:25.504 [info] [2025-06-06 06:18:25.243] [        469ms] [/home/nana/.vscode] git rev-parse --show-toplevel • FAILED
+2025-06-06 01:18:25.504 [info] 
+Error: fatal: not a git repository (or any of the parent directories): .git
+

@@ -1,0 +1,18 @@
+2025/06/20-13:44:14.322 8936 Reusing MANIFEST /home/nana/.config/Youtube/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/20-13:44:14.323 8936 Recovering log #99
+2025/06/20-13:44:14.325 8936 Reusing old log /home/nana/.config/Youtube/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000099.log 
+2025/06/20-13:44:18.596 8949 Compacting 1@1 + 1@2 files
+2025/06/20-13:44:18.621 8949 Generated table #102@1: 668 keys, 73576 bytes
+2025/06/20-13:44:18.621 8949 Compacted 1@1 + 1@2 files => 73576 bytes
+2025/06/20-13:44:18.624 8949 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/06/20-13:44:18.625 8949 Delete type=2 #98
+2025/06/20-13:44:18.625 8949 Delete type=2 #100
+2025/06/20-19:02:15.343 8937 Level-0 table #104: started
+2025/06/20-19:02:15.433 8937 Level-0 table #104: 1722007 bytes OK
+2025/06/20-19:02:15.439 8937 Delete type=0 #99
+2025/06/20-19:42:41.708 8937 Compacting 1@1 + 1@2 files
+2025/06/20-19:42:41.741 8937 Generated table #105@1: 760 keys, 67567 bytes
+2025/06/20-19:42:41.741 8937 Compacted 1@1 + 1@2 files => 67567 bytes
+2025/06/20-19:42:41.745 8937 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/06/20-19:42:41.746 8937 Delete type=2 #102
+2025/06/20-19:42:41.747 8937 Delete type=2 #104

@@ -1,0 +1,9 @@
+2025-06-08 16:31:29.202 [info] Started local extension host with pid 54492.
+2025-06-08 16:31:29.874 [info] ComputeTargetPlatform: linux-x64
+2025-06-08 16:31:33.121 [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+2025-06-08 16:31:39.700 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-06-08 16:31:41.159 [info] [perf] Render performance baseline is 303ms
+2025-06-08 16:31:41.974 [info] Extension host (LocalProcess pid: 54492) is unresponsive.
+2025-06-08 16:31:43.926 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-06-08 16:31:45.482 [info] Extension host (LocalProcess pid: 54492) is responsive.
+2025-06-08 16:31:45.484 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session

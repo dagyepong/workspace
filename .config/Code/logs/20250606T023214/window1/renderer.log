@@ -1,0 +1,4 @@
+2025-06-06 02:32:17.387 [info] Started local extension host with pid 2766.
+2025-06-06 02:32:17.991 [info] ComputeTargetPlatform: linux-x64
+2025-06-06 02:32:20.460 [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+2025-06-06 02:32:26.834 [info] Settings Sync: Account status changed from uninitialized to unavailable

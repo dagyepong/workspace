@@ -1,0 +1,14 @@
+2025/06/20-13:44:06.551 8936 Reusing MANIFEST /home/nana/.config/Youtube/Local Storage/leveldb/MANIFEST-000001
+2025/06/20-13:44:06.583 8936 Recovering log #37
+2025/06/20-13:44:06.585 8936 Level-0 table #40: started
+2025/06/20-13:44:06.589 8936 Level-0 table #40: 15962 bytes OK
+2025/06/20-13:44:06.593 8936 Delete type=0 #37
+2025/06/20-13:44:06.595 8937 Compacting 4@0 + 1@1 files
+2025/06/20-13:44:06.604 8937 Generated table #42@0: 35 keys, 2628 bytes
+2025/06/20-13:44:06.604 8937 Compacted 4@0 + 1@1 files => 2628 bytes
+2025/06/20-13:44:06.609 8937 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/06/20-13:44:06.610 8937 Delete type=2 #40
+2025/06/20-13:44:06.610 8937 Delete type=2 #35
+2025/06/20-13:44:06.610 8937 Delete type=2 #30
+2025/06/20-13:44:06.610 8937 Delete type=2 #38
+2025/06/20-13:44:06.610 8937 Delete type=2 #33

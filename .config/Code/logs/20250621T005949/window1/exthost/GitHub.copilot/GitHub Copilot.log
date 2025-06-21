@@ -1,0 +1,21 @@
+2025-06-21 01:00:14.938 [info] [certificates] Removed 1 expired certificates
+2025-06-21 01:00:17.347 [info] [fetcher] Using Helix fetcher.
+2025-06-21 01:00:17.349 [info] [code-referencing] Public code references are enabled.
+2025-06-21 01:00:21.101 [error] [default] Error sending telemetry FetchError: The operation was aborted
+    at fetch (/home/nana/.vscode/extensions/github.copilot-1.331.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at processTimers (node:internal/timers:516:9)
+    at cachingFetch (/home/nana/.vscode/extensions/github.copilot-1.331.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at K1.fetch (/home/nana/.vscode/extensions/github.copilot-1.331.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ABORT_ERR',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-06-21 01:00:22.241 [info] [fetcher] Using Helix fetcher.
+2025-06-21 01:41:00.934 [info] [certificates] Removed 1 expired certificates
+2025-06-21 01:41:02.038 [info] [fetcher] Using Helix fetcher.
+2025-06-21 01:41:02.039 [info] [code-referencing] Public code references are enabled.
+2025-06-21 01:41:02.677 [info] [fetcher] Using Helix fetcher.

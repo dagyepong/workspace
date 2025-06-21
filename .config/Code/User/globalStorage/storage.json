@@ -1,0 +1,81 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "45866303d1729c83ab36f4d83b2ae310bb853ac769b5891b86e4c74c6bc5724e",
+    "telemetry.devDeviceId": "d07ea07d-f5b6-448c-bee1-8cf379175cb7",
+    "backupWorkspaces": {
+        "workspaces": [
+            {
+                "id": "eb198a2e0e0022062f721b0338d31e38",
+                "configURIPath": "file:///home/nana/.config/Code/Workspaces/1750488047983/workspace.json"
+            }
+        ],
+        "folders": [
+            {
+                "folderUri": "file:///home/nana/Documents/Home-lab"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/nana/Documents/Home-lab": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#282a36",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#f8f8f2",
+            "background": "#282a36",
+            "editorBackground": "#282a36",
+            "titleBarBackground": "#21222c",
+            "activityBarBackground": "#343746",
+            "sideBarBackground": "#21222c",
+            "statusBarBackground": "#191a21",
+            "statusBarNoFolderBackground": "#191a21"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 300,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "workspaceIdentifier": {
+                "id": "eb198a2e0e0022062f721b0338d31e38",
+                "configURIPath": "file:///home/nana/.config/Code/Workspaces/1750488047983/workspace.json"
+            },
+            "backupPath": "/home/nana/.config/Code/Backups/eb198a2e0e0022062f721b0338d31e38",
+            "uiState": {
+                "mode": 1,
+                "x": 31,
+                "y": 77,
+                "width": 1738,
+                "height": 1092
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 300,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "73445a0c157718058f9f77fddfd82d52": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

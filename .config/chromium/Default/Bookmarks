@@ -1,0 +1,47 @@
+{
+   "checksum": "f7981dca27d1abf89f1bcec485aacd79",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13393844764376955",
+            "date_last_used": "0",
+            "guid": "addd841f-60f6-4b79-914c-8f8ddec9c861",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "flare",
+            "type": "url",
+            "url": "https://flare.linuxpad.blog/"
+         } ],
+         "date_added": "13393844382083631",
+         "date_last_used": "0",
+         "date_modified": "13393844764376955",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13393844382083636",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13393844382083640",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

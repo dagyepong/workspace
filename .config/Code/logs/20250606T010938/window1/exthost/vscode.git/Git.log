@@ -1,0 +1,180 @@
+2025-06-06 01:09:46.798 [info] [main] Log level: Info
+2025-06-06 01:09:46.799 [info] [main] Validating found git in: "git"
+2025-06-06 01:09:46.799 [info] [main] Using git "2.49.0" from "git"
+2025-06-06 01:09:46.799 [info] [Model][doInitialScan] Initial repository scan started
+2025-06-06 01:09:46.799 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-06-06 01:19:01.754 [info] > git clone https://github.com/dagyepong/Home-lab.git /home/nana/Documents/Home-lab --progress [959ms]
+2025-06-06 01:19:01.755 [info] Cloning into '/home/nana/Documents/Home-lab'...
+remote: Enumerating objects: 4489, done.        
+remote: Counting objects:   2% (1/45)        remote: Counting objects:   4% (2/45)        remote: Counting objects:   6% (3/45)        remote: Counting objects:   8% (4/45)        remote: Counting objects:  11% (5/45)        remote: Counting objects:  13% (6/45)        remote: Counting objects:  15% (7/45)        remote: Counting objects:  17% (8/45)        remote: Counting objects:  20% (9/45)        remote: Counting objects:  22% (10/45)        remote: Counting objects:  24% (11/45)        remote: Counting objects:  26% (12/45)        remote: Counting objects:  28% (13/45)        remote: Counting objects:  31% (14/45)        remote: Counting objects:  33% (15/45)        remote: Counting objects:  35% (16/45)        remote: Counting objects:  37% (17/45)        remote: Counting objects:  40% (18/45)        remote: Counting objects:  42% (19/45)        remote: Counting objects:  44% (20/45)        remote: Counting objects:  46% (21/45)        remote: Counting objects:  48% (22/45)        remote: Counting objects:  51% (23/45)        remote: Counting objects:  53% (24/45)        remote: Counting objects:  55% (25/45)        remote: Counting objects:  57% (26/45)        remote: Counting objects:  60% (27/45)        remote: Counting objects:  62% (28/45)        remote: Counting objects:  64% (29/45)        remote: Counting objects:  66% (30/45)        remote: Counting objects:  68% (31/45)        remote: Counting objects:  71% (32/45)        remote: Counting objects:  73% (33/45)        remote: Counting objects:  75% (34/45)        remote: Counting objects:  77% (35/45)        remote: Counting objects:  80% (36/45)        remote: Counting objects:  82% (37/45)        remote: Counting objects:  84% (38/45)        remote: Counting objects:  86% (39/45)        remote: Counting objects:  88% (40/45)        remote: Counting objects:  91% (41/45)        remote: Counting objects:  93% (42/45)        remote: Counting objects:  95% (43/45)        remote: Counting objects:  97% (44/45)        remote: Counting objects: 100% (45/45)        remote: Counting objects: 100% (45/45), done.        
+remote: Compressing objects:   3% (1/33)        remote: Compressing objects:   6% (2/33)        remote: Compressing objects:   9% (3/33)        remote: Compressing objects:  12% (4/33)        remote: Compressing objects:  15% (5/33)        remote: Compressing objects:  18% (6/33)        remote: Compressing objects:  21% (7/33)        remote: Compressing objects:  24% (8/33)        remote: Compressing objects:  27% (9/33)        remote: Compressing objects:  30% (10/33)        remote: Compressing objects:  33% (11/33)        remote: Compressing objects:  36% (12/33)        remote: Compressing objects:  39% (13/33)        remote: Compressing objects:  42% (14/33)        remote: Compressing objects:  45% (15/33)        remote: Compressing objects:  48% (16/33)        remote: Compressing objects:  51% (17/33)        remote: Compressing objects:  54% (18/33)        remote: Compressing objects:  57% (19/33)        remote: Compressing objects:  60% (20/33)        remote: Compressing objects:  63% (21/33)        remote: Compressing objects:  66% (22/33)        remote: Compressing objects:  69% (23/33)        remote: Compressing objects:  72% (24/33)        remote: Compressing objects:  75% (25/33)        remote: Compressing objects:  78% (26/33)        remote: Compressing objects:  81% (27/33)        remote: Compressing objects:  84% (28/33)        remote: Compressing objects:  87% (29/33)        remote: Compressing objects:  90% (30/33)        remote: Compressing objects:  93% (31/33)        remote: Compressing objects:  96% (32/33)        remote: Compressing objects: 100% (33/33)        remote: Compressing objects: 100% (33/33), done.        
+Receiving objects:   0% (1/4489)Receiving objects:   1% (45/4489)Receiving objects:   2% (90/4489)Receiving objects:   3% (135/4489)Receiving objects:   4% (180/4489)Receiving objects:   5% (225/4489)Receiving objects:   6% (270/4489)Receiving objects:   7% (315/4489)Receiving objects:   8% (360/4489)Receiving objects:   9% (405/4489)Receiving objects:  10% (449/4489)Receiving objects:  11% (494/4489)Receiving objects:  12% (539/4489)Receiving objects:  13% (584/4489)Receiving objects:  14% (629/4489)Receiving objects:  15% (674/4489)Receiving objects:  16% (719/4489)Receiving objects:  17% (764/4489)Receiving objects:  18% (809/4489)Receiving objects:  19% (853/4489)Receiving objects:  20% (898/4489)Receiving objects:  21% (943/4489)Receiving objects:  22% (988/4489)Receiving objects:  23% (1033/4489)Receiving objects:  24% (1078/4489)Receiving objects:  25% (1123/4489)Receiving objects:  26% (1168/4489)Receiving objects:  27% (1213/4489)Receiving objects:  28% (1257/4489)Receiving objects:  29% (1302/4489)Receiving objects:  30% (1347/4489)Receiving objects:  31% (1392/4489)Receiving objects:  32% (1437/4489)Receiving objects:  33% (1482/4489)Receiving objects:  34% (1527/4489)Receiving objects:  35% (1572/4489)Receiving objects:  36% (1617/4489)Receiving objects:  37% (1661/4489)Receiving objects:  38% (1706/4489)Receiving objects:  39% (1751/4489)Receiving objects:  40% (1796/4489)Receiving objects:  41% (1841/4489)Receiving objects:  42% (1886/4489)Receiving objects:  43% (1931/4489)Receiving objects:  44% (1976/4489)Receiving objects:  45% (2021/4489)Receiving objects:  46% (2065/4489)Receiving objects:  47% (2110/4489)Receiving objects:  48% (2155/4489)Receiving objects:  49% (2200/4489)Receiving objects:  50% (2245/4489)Receiving objects:  51% (2290/4489)Receiving objects:  52% (2335/4489)Receiving objects:  53% (2380/4489)Receiving objects:  54% (2425/4489)Receiving objects:  55% (2469/4489)Receiving objects:  56% (2514/4489)Receiving objects:  57% (2559/4489)Receiving objects:  58% (2604/4489)Receiving objects:  59% (2649/4489)Receiving objects:  60% (2694/4489)Receiving objects:  61% (2739/4489)Receiving objects:  62% (2784/4489)Receiving objects:  63% (2829/4489)Receiving objects:  64% (2873/4489)Receiving objects:  65% (2918/4489)Receiving objects:  66% (2963/4489)Receiving objects:  67% (3008/4489)Receiving objects:  68% (3053/4489)Receiving objects:  69% (3098/4489)Receiving objects:  70% (3143/4489)Receiving objects:  71% (3188/4489)Receiving objects:  72% (3233/4489)Receiving objects:  73% (3277/4489)Receiving objects:  74% (3322/4489)Receiving objects:  75% (3367/4489)Receiving objects:  76% (3412/4489)Receiving objects:  77% (3457/4489)Receiving objects:  78% (3502/4489)Receiving objects:  79% (3547/4489)Receiving objects:  80% (3592/4489)Receiving objects:  81% (3637/4489)Receiving objects:  82% (3681/4489)Receiving objects:  83% (3726/4489)Receiving objects:  84% (3771/4489)Receiving objects:  85% (3816/4489)Receiving objects:  86% (3861/4489)Receiving objects:  87% (3906/4489)Receiving objects:  88% (3951/4489)Receiving objects:  89% (3996/4489)Receiving objects:  90% (4041/4489)Receiving objects:  91% (4085/4489)Receiving objects:  92% (4130/4489)Receiving objects:  93% (4175/4489)remote: Total 4489 (delta 22), reused 33 (delta 12), pack-reused 4444 (from 3)        
+Receiving objects:  94% (4220/4489)Receiving objects:  95% (4265/4489)Receiving objects:  96% (4310/4489)Receiving objects:  97% (4355/4489)Receiving objects:  98% (4400/4489)Receiving objects:  99% (4445/4489)Receiving objects: 100% (4489/4489)Receiving objects: 100% (4489/4489), 779.10 KiB | 2.36 MiB/s, done.
+Resolving deltas:   0% (0/2306)Resolving deltas:   1% (24/2306)Resolving deltas:   2% (47/2306)Resolving deltas:   3% (70/2306)Resolving deltas:   4% (93/2306)Resolving deltas:   5% (116/2306)Resolving deltas:   6% (139/2306)Resolving deltas:   7% (162/2306)Resolving deltas:   8% (185/2306)Resolving deltas:   9% (208/2306)Resolving deltas:  10% (231/2306)Resolving deltas:  11% (254/2306)Resolving deltas:  12% (277/2306)Resolving deltas:  13% (300/2306)Resolving deltas:  14% (323/2306)Resolving deltas:  15% (346/2306)Resolving deltas:  16% (369/2306)Resolving deltas:  17% (393/2306)Resolving deltas:  18% (416/2306)Resolving deltas:  19% (439/2306)Resolving deltas:  20% (462/2306)Resolving deltas:  21% (485/2306)Resolving deltas:  22% (508/2306)Resolving deltas:  23% (531/2306)Resolving deltas:  24% (554/2306)Resolving deltas:  25% (577/2306)Resolving deltas:  26% (600/2306)Resolving deltas:  27% (624/2306)Resolving deltas:  28% (646/2306)Resolving deltas:  29% (669/2306)Resolving deltas:  30% (692/2306)Resolving deltas:  31% (715/2306)Resolving deltas:  32% (738/2306)Resolving deltas:  33% (761/2306)Resolving deltas:  34% (785/2306)Resolving deltas:  35% (808/2306)Resolving deltas:  36% (831/2306)Resolving deltas:  37% (854/2306)Resolving deltas:  38% (877/2306)Resolving deltas:  39% (900/2306)Resolving deltas:  40% (923/2306)Resolving deltas:  41% (946/2306)Resolving deltas:  42% (969/2306)Resolving deltas:  43% (992/2306)Resolving deltas:  44% (1015/2306)Resolving deltas:  45% (1038/2306)Resolving deltas:  46% (1061/2306)Resolving deltas:  47% (1084/2306)Resolving deltas:  48% (1107/2306)Resolving deltas:  49% (1130/2306)Resolving deltas:  50% (1153/2306)Resolving deltas:  51% (1177/2306)Resolving deltas:  52% (1200/2306)Resolving deltas:  53% (1223/2306)Resolving deltas:  54% (1246/2306)Resolving deltas:  55% (1269/2306)Resolving deltas:  56% (1292/2306)Resolving deltas:  57% (1315/2306)Resolving deltas:  58% (1338/2306)Resolving deltas:  59% (1361/2306)Resolving deltas:  60% (1384/2306)Resolving deltas:  61% (1407/2306)Resolving deltas:  62% (1430/2306)Resolving deltas:  63% (1453/2306)Resolving deltas:  64% (1476/2306)Resolving deltas:  65% (1499/2306)Resolving deltas:  66% (1522/2306)Resolving deltas:  67% (1546/2306)Resolving deltas:  68% (1569/2306)Resolving deltas:  69% (1592/2306)Resolving deltas:  70% (1615/2306)Resolving deltas:  71% (1638/2306)Resolving deltas:  72% (1661/2306)Resolving deltas:  73% (1684/2306)Resolving deltas:  74% (1707/2306)Resolving deltas:  75% (1730/2306)Resolving deltas:  76% (1753/2306)Resolving deltas:  77% (1776/2306)Resolving deltas:  78% (1799/2306)Resolving deltas:  79% (1822/2306)Resolving deltas:  80% (1845/2306)Resolving deltas:  81% (1868/2306)Resolving deltas:  82% (1891/2306)Resolving deltas:  83% (1914/2306)Resolving deltas:  84% (1938/2306)Resolving deltas:  85% (1961/2306)Resolving deltas:  86% (1984/2306)Resolving deltas:  87% (2007/2306)Resolving deltas:  88% (2030/2306)Resolving deltas:  89% (2053/2306)Resolving deltas:  90% (2076/2306)Resolving deltas:  91% (2099/2306)Resolving deltas:  92% (2122/2306)Resolving deltas:  93% (2146/2306)Resolving deltas:  94% (2168/2306)Resolving deltas:  95% (2191/2306)Resolving deltas:  96% (2214/2306)Resolving deltas:  97% (2237/2306)Resolving deltas:  98% (2260/2306)Resolving deltas:  99% (2283/2306)Resolving deltas: 100% (2306/2306)Resolving deltas: 100% (2306/2306), done.
+2025-06-06 01:19:24.299 [info] [main] Log level: Info
+2025-06-06 01:19:24.299 [info] [main] Validating found git in: "git"
+2025-06-06 01:19:24.299 [info] [main] Using git "2.49.0" from "git"
+2025-06-06 01:19:24.299 [info] [Model][doInitialScan] Initial repository scan started
+2025-06-06 01:19:24.300 [info] > git rev-parse --show-toplevel [806ms]
+2025-06-06 01:19:24.437 [info] > git rev-parse --git-dir --git-common-dir [84ms]
+2025-06-06 01:19:24.558 [info] [Model][openRepository] Opened repository (path): /home/nana/Documents/Home-lab
+2025-06-06 01:19:24.558 [info] [Model][openRepository] Opened repository (real path): /home/nana/Documents/Home-lab
+2025-06-06 01:19:25.056 [info] > git config --get commit.template [303ms]
+2025-06-06 01:19:26.124 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [356ms]
+2025-06-06 01:19:27.540 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/nana/Documents/Home-lab/.git/refs/remotes/origin/main'
+2025-06-06 01:19:27.542 [info] > git check-ignore -v -z --stdin [1350ms]
+2025-06-06 01:19:27.698 [info] > git rev-parse refs/remotes/origin/main [158ms]
+2025-06-06 01:19:27.950 [info] > git status -z -uall [209ms]
+2025-06-06 01:19:27.952 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [157ms]
+2025-06-06 01:19:28.777 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [735ms]
+2025-06-06 01:19:28.851 [info] > git config --get --local branch.main.vscode-merge-base [21ms]
+2025-06-06 01:19:28.851 [warning] [Git][config] git config failed: Failed to execute git
+2025-06-06 01:19:28.909 [info] > git config --get commit.template [143ms]
+2025-06-06 01:19:28.980 [info] > git reflog main --grep-reflog=branch: Created from *. [74ms]
+2025-06-06 01:19:29.064 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [48ms]
+2025-06-06 01:19:29.176 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [114ms]
+2025-06-06 01:19:29.407 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/nana/Documents/Home-lab/.git/refs/remotes/origin/main'
+2025-06-06 01:19:29.444 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [345ms]
+2025-06-06 01:19:29.543 [info] > git rev-parse refs/remotes/origin/main [135ms]
+2025-06-06 01:19:29.675 [info] > git status -z -uall [94ms]
+2025-06-06 01:19:29.676 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [35ms]
+2025-06-06 01:19:29.720 [info] > git config --add --local branch.main.vscode-merge-base origin/main [240ms]
+2025-06-06 01:19:29.786 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [70ms]
+2025-06-06 01:19:29.856 [info] > git config --get --local branch.main.vscode-merge-base [30ms]
+2025-06-06 01:19:29.888 [info] > git config --get commit.template [127ms]
+2025-06-06 01:19:33.009 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [3121ms]
+2025-06-06 01:19:35.585 [info] > git check-ignore -v -z --stdin [124ms]
+2025-06-06 01:19:35.594 [info] > git merge-base refs/heads/main refs/remotes/origin/main [1150ms]
+2025-06-06 01:19:35.950 [info] > git diff --name-status -z --diff-filter=ADMR e0fdebfa9d97cda1784539a56dfe0c50de91d893...refs/remotes/origin/main [318ms]
+2025-06-06 01:19:35.959 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [393ms]
+2025-06-06 01:19:36.614 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/nana/Documents/Home-lab/.git/refs/remotes/origin/main'
+2025-06-06 01:19:36.758 [info] > git check-ignore -v -z --stdin [107ms]
+2025-06-06 01:19:36.824 [info] > git rev-parse refs/remotes/origin/main [211ms]
+2025-06-06 01:19:37.078 [info] > git status -z -uall [201ms]
+2025-06-06 01:19:37.089 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [138ms]
+2025-06-06 01:19:38.477 [info] > git rev-parse --show-toplevel [7ms]
+2025-06-06 01:19:38.526 [info] > git rev-parse --show-toplevel [7ms]
+2025-06-06 01:19:38.563 [info] > git rev-parse --show-toplevel [5ms]
+2025-06-06 01:19:38.608 [info] > git rev-parse --show-toplevel [5ms]
+2025-06-06 01:19:38.681 [info] > git rev-parse --show-toplevel [18ms]
+2025-06-06 01:19:38.738 [info] > git rev-parse --show-toplevel [7ms]
+2025-06-06 01:19:38.851 [info] > git rev-parse --show-toplevel [45ms]
+2025-06-06 01:19:38.880 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:38.916 [info] > git rev-parse --show-toplevel [4ms]
+2025-06-06 01:19:38.956 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:38.997 [info] > git rev-parse --show-toplevel [7ms]
+2025-06-06 01:19:39.028 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:39.058 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:39.096 [info] > git rev-parse --show-toplevel [6ms]
+2025-06-06 01:19:39.147 [info] > git rev-parse --show-toplevel [14ms]
+2025-06-06 01:19:39.211 [info] > git rev-parse --show-toplevel [25ms]
+2025-06-06 01:19:39.280 [info] > git rev-parse --show-toplevel [30ms]
+2025-06-06 01:19:39.333 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:39.381 [info] > git rev-parse --show-toplevel [4ms]
+2025-06-06 01:19:39.429 [info] > git rev-parse --show-toplevel [5ms]
+2025-06-06 01:19:39.476 [info] > git rev-parse --show-toplevel [7ms]
+2025-06-06 01:19:39.523 [info] > git rev-parse --show-toplevel [7ms]
+2025-06-06 01:19:39.573 [info] > git rev-parse --show-toplevel [6ms]
+2025-06-06 01:19:39.618 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:39.665 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:39.723 [info] > git rev-parse --show-toplevel [7ms]
+2025-06-06 01:19:39.772 [info] > git rev-parse --show-toplevel [7ms]
+2025-06-06 01:19:39.831 [info] > git rev-parse --show-toplevel [8ms]
+2025-06-06 01:19:39.880 [info] > git rev-parse --show-toplevel [4ms]
+2025-06-06 01:19:39.917 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:39.950 [info] > git rev-parse --show-toplevel [4ms]
+2025-06-06 01:19:39.990 [info] > git rev-parse --show-toplevel [6ms]
+2025-06-06 01:19:40.030 [info] > git rev-parse --show-toplevel [4ms]
+2025-06-06 01:19:40.064 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:40.095 [info] > git rev-parse --show-toplevel [2ms]
+2025-06-06 01:19:40.127 [info] > git rev-parse --show-toplevel [2ms]
+2025-06-06 01:19:40.159 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:40.199 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:40.236 [info] > git rev-parse --show-toplevel [4ms]
+2025-06-06 01:19:40.307 [info] > git rev-parse --show-toplevel [40ms]
+2025-06-06 01:19:40.344 [info] > git rev-parse --show-toplevel [2ms]
+2025-06-06 01:19:40.374 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:40.404 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:40.434 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:40.470 [info] > git rev-parse --show-toplevel [5ms]
+2025-06-06 01:19:40.502 [info] > git rev-parse --show-toplevel [4ms]
+2025-06-06 01:19:40.564 [info] > git rev-parse --show-toplevel [15ms]
+2025-06-06 01:19:40.612 [info] > git rev-parse --show-toplevel [4ms]
+2025-06-06 01:19:40.658 [info] > git rev-parse --show-toplevel [6ms]
+2025-06-06 01:19:40.692 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:40.738 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:40.769 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:40.807 [info] > git rev-parse --show-toplevel [5ms]
+2025-06-06 01:19:40.847 [info] > git rev-parse --show-toplevel [4ms]
+2025-06-06 01:19:40.877 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:40.916 [info] > git rev-parse --show-toplevel [2ms]
+2025-06-06 01:19:40.981 [info] > git rev-parse --show-toplevel [12ms]
+2025-06-06 01:19:41.178 [info] > git rev-parse --show-toplevel [144ms]
+2025-06-06 01:19:41.273 [info] > git rev-parse --show-toplevel [23ms]
+2025-06-06 01:19:41.439 [info] > git rev-parse --show-toplevel [22ms]
+2025-06-06 01:19:41.515 [info] > git rev-parse --show-toplevel [4ms]
+2025-06-06 01:19:41.577 [info] > git rev-parse --show-toplevel [8ms]
+2025-06-06 01:19:41.636 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:41.748 [info] > git rev-parse --show-toplevel [47ms]
+2025-06-06 01:19:41.907 [info] > git rev-parse --show-toplevel [95ms]
+2025-06-06 01:19:41.980 [info] > git rev-parse --show-toplevel [4ms]
+2025-06-06 01:19:42.037 [info] > git rev-parse --show-toplevel [5ms]
+2025-06-06 01:19:42.084 [info] > git rev-parse --show-toplevel [19ms]
+2025-06-06 01:19:42.116 [info] > git rev-parse --show-toplevel [4ms]
+2025-06-06 01:19:42.152 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:42.181 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:42.211 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:42.244 [info] > git rev-parse --show-toplevel [5ms]
+2025-06-06 01:19:42.276 [info] > git rev-parse --show-toplevel [5ms]
+2025-06-06 01:19:42.314 [info] > git rev-parse --show-toplevel [4ms]
+2025-06-06 01:19:42.346 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:42.375 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:42.405 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:42.440 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:42.470 [info] > git rev-parse --show-toplevel [2ms]
+2025-06-06 01:19:42.502 [info] > git rev-parse --show-toplevel [6ms]
+2025-06-06 01:19:42.532 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:42.562 [info] > git rev-parse --show-toplevel [4ms]
+2025-06-06 01:19:42.592 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:42.621 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:42.650 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:42.679 [info] > git rev-parse --show-toplevel [2ms]
+2025-06-06 01:19:42.709 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:42.746 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:42.776 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:42.806 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:42.836 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:42.868 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:42.898 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:42.932 [info] > git rev-parse --show-toplevel [2ms]
+2025-06-06 01:19:42.965 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:42.995 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:43.024 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:43.054 [info] > git rev-parse --show-toplevel [4ms]
+2025-06-06 01:19:43.093 [info] > git rev-parse --show-toplevel [5ms]
+2025-06-06 01:19:43.122 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:43.161 [info] > git rev-parse --show-toplevel [5ms]
+2025-06-06 01:19:43.190 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:43.219 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-06 01:19:43.248 [info] > git rev-parse --show-toplevel [2ms]
+2025-06-06 01:19:43.277 [info] > git rev-parse --show-toplevel [2ms]
+2025-06-06 01:19:43.306 [info] > git rev-parse --show-toplevel [2ms]
+2025-06-06 01:19:43.340 [info] > git rev-parse --show-toplevel [2ms]
+2025-06-06 01:19:43.345 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-06-06 01:19:43.501 [info] > git show --textconv :2FAuth/docker.compose.yml [126ms]
+2025-06-06 01:19:43.501 [info] > git show --textconv :Diun/docker-compose.yaml [67ms]
+2025-06-06 01:19:43.501 [info] > git ls-files --stage -- Diun/docker-compose.yaml [35ms]
+2025-06-06 01:19:43.531 [info] > git ls-files --stage -- 2FAuth/docker.compose.yml [128ms]
+2025-06-06 01:19:43.612 [info] > git cat-file -s 7a75a7c9f263815253afbe30d2157789addac5be [55ms]
+2025-06-06 01:19:43.613 [info] > git cat-file -s 531f6a7c7f2a137c8a5cb4293802f8707a857973 [84ms]
+2025-06-06 01:19:43.615 [info] > git config --get commit.template [115ms]
+2025-06-06 01:19:43.685 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [25ms]
+2025-06-06 01:19:43.817 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/nana/Documents/Home-lab/.git/refs/remotes/origin/main'
+2025-06-06 01:19:43.820 [info] > git show --textconv :2FAuth/docker.compose.yml [98ms]
+2025-06-06 01:19:43.820 [info] > git ls-files --stage -- 2FAuth/docker.compose.yml [53ms]
+2025-06-06 01:19:43.867 [info] > git rev-parse refs/remotes/origin/main [50ms]
+2025-06-06 01:19:43.967 [info] > git status -z -uall [61ms]
+2025-06-06 01:19:43.968 [info] > git cat-file -s 7a75a7c9f263815253afbe30d2157789addac5be [109ms]
+2025-06-06 01:19:43.970 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [17ms]
+2025-06-06 01:19:44.457 [info] > git config --get --local branch.main.github-pr-owner-number [253ms]
+2025-06-06 01:19:44.457 [warning] [Git][config] git config failed: Failed to execute git

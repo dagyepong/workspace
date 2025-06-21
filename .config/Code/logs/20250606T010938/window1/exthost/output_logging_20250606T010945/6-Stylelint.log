@@ -1,0 +1,17 @@
+[Info  - 1:15:36 AM] [language-server] Registering module | module: "auto-fix"
+[Info  - 1:15:36 AM] [language-server] Module registered | module: "auto-fix"
+[Info  - 1:15:36 AM] [language-server] Registering module | module: "code-action"
+[Info  - 1:15:36 AM] [language-server] Module registered | module: "code-action"
+[Info  - 1:15:36 AM] [language-server] Registering module | module: "completion"
+[Info  - 1:15:36 AM] [language-server] Module registered | module: "completion"
+[Info  - 1:15:36 AM] [language-server] Registering module | module: "formatter"
+[Info  - 1:15:36 AM] [language-server] Module registered | module: "formatter"
+[Info  - 1:15:36 AM] [language-server] Registering module | module: "old-stylelint-warning"
+[Info  - 1:15:36 AM] [language-server] Module registered | module: "old-stylelint-warning"
+[Info  - 1:15:36 AM] [language-server] Registering module | module: "validator"
+[Info  - 1:15:36 AM] [language-server] Module registered | module: "validator"
+[Info  - 1:15:36 AM] [language-server] Starting language server
+[Info  - 1:15:36 AM] [language-server] Registering handlers
+[Info  - 1:15:36 AM] [language-server] Handlers registered
+[Info  - 1:15:36 AM] [language-server] Language server started
+[Info  - 1:19:04 AM] [language-server] Stopping language server

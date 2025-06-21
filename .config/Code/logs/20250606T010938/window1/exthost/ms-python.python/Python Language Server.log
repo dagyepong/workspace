@@ -1,0 +1,3 @@
+2025-06-06 01:12:56.800 [info] (Client) Pylance async client (2025.5.1) started with python extension (2025.6.1)
+2025-06-06 01:13:04.770 [info] [Info  - 1:13:04 AM] (78378) Server root directory: file:///home/nana/.vscode/extensions/ms-python.vscode-pylance-2025.5.1/dist
+2025-06-06 01:13:04.777 [info] [Info  - 1:13:04 AM] (78378) Pylance language server 2025.5.1 (pyright version 1.1.400, commit b962ffc2) starting

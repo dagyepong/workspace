@@ -1,0 +1,31 @@
+2025-06-21 00:59:53.041 [info] Started local extension host with pid 6297.
+2025-06-21 00:59:53.314 [info] ComputeTargetPlatform: linux-x64
+2025-06-21 00:59:54.973 [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+2025-06-21 01:00:01.408 [info] Auto updating outdated extensions. eamodio.gitlens, github.copilot, github.vscode-pull-request-github, ms-python.python, ms-python.vscode-pylance
+2025-06-21 01:00:01.426 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-06-21 01:00:03.120 [info] [perf] Render performance baseline is 258ms
+2025-06-21 01:00:04.620 [info] Extension host (LocalProcess pid: 6297) is unresponsive.
+2025-06-21 01:00:06.521 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-06-21 01:00:07.090 [info] Extension host (LocalProcess pid: 6297) is responsive.
+2025-06-21 01:00:07.091 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-06-21 01:00:09.349 [warning] UNRESPONSIVE extension host: 'stylelint.vscode-stylelint' took 33.63988711587316% of 193.464ms, saved PROFILE here: 'file:///tmp/exthost-9ee96e.cpuprofile'
+2025-06-21 01:00:21.102 [error] [Extension Host] [default] Error sending telemetry FetchError: The operation was aborted
+    at fetch (/home/nana/.vscode/extensions/github.copilot-1.331.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at processTimers (node:internal/timers:516:9)
+    at cachingFetch (/home/nana/.vscode/extensions/github.copilot-1.331.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at K1.fetch (/home/nana/.vscode/extensions/github.copilot-1.331.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ABORT_ERR',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-06-21 01:40:43.540 [error] [Extension Host] (node:6297) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-06-21 01:40:48.414 [info] Started local extension host with pid 8373.
+2025-06-21 01:41:02.845 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-06-21 01:41:02.846 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-06-21 01:41:02.883 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-06-21 01:41:02.884 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess

@@ -1,0 +1,43 @@
+2025-06-21 01:00:12.686 [warning] /home/nana/.ssh/config: ENOENT: no such file or directory, open '/home/nana/.ssh/config'
+2025-06-21 01:00:12.686 [info] [Activation] Extension version: 0.110.0
+2025-06-21 01:00:12.753 [info] [Authentication] Creating hub for .com
+2025-06-21 01:00:14.684 [info] [Activation] Looking for git repository
+2025-06-21 01:00:14.684 [info] [Activation] Found 0 repositories during activation
+2025-06-21 01:00:14.684 [info] [Activation] Git repository found, initializing review manager and pr tree view.
+2025-06-21 01:00:14.697 [info] [GitAPI] Registering git provider
+2025-06-21 01:00:15.399 [info] [Activation] Repo state for file:///home/nana/Documents/Home-lab changed.
+2025-06-21 01:00:15.399 [info] [Activation] Repo file:///home/nana/Documents/Home-lab has already been setup.
+2025-06-21 01:00:24.845 [info] [Activation] Git initialization state changed: state=initialized
+2025-06-21 01:00:24.845 [info] [Review+0] Validate state in progress
+2025-06-21 01:00:24.845 [info] [Review+0] Validating state...
+2025-06-21 01:00:24.941 [info] [FolderRepositoryManager+0] Found GitHub remote for folder /home/nana/Documents/Home-lab
+2025-06-21 01:00:25.895 [info] [FolderRepositoryManager+0] Trying to use globalState for assignableUsers.
+2025-06-21 01:00:26.271 [info] [Review+0] No matching pull request metadata found locally for current branch main
+2025-06-21 01:00:26.358 [info] [FolderRepositoryManager+0] Using globalState assignableUsers for 1.
+2025-06-21 01:00:27.214 [info] [Review+0] No matching pull request metadata found on GitHub for current branch main
+2025-06-21 01:40:58.807 [warning] /home/nana/.ssh/config: ENOENT: no such file or directory, open '/home/nana/.ssh/config'
+2025-06-21 01:40:58.810 [info] [Activation] Extension version: 0.110.0
+2025-06-21 01:40:59.527 [info] [Authentication] Creating hub for .com
+2025-06-21 01:41:00.681 [info] [Activation] Looking for git repository
+2025-06-21 01:41:00.681 [info] [Activation] Found 0 repositories during activation
+2025-06-21 01:41:00.681 [info] [Activation] Git repository found, initializing review manager and pr tree view.
+2025-06-21 01:41:00.691 [info] [GitAPI] Registering git provider
+2025-06-21 01:41:01.712 [info] [Activation] Repo state for file:///home/nana/Documents/workspace changed.
+2025-06-21 01:41:01.712 [info] [Activation] Repo file:///home/nana/Documents/workspace has already been setup.
+2025-06-21 01:41:10.304 [info] [Activation] Git initialization state changed: state=initialized
+2025-06-21 01:41:10.304 [info] [Review+1] Validate state in progress
+2025-06-21 01:41:10.304 [info] [Review+1] Validating state...
+2025-06-21 01:41:10.304 [info] [Review+0] Validate state in progress
+2025-06-21 01:41:10.304 [info] [Review+0] Validating state...
+2025-06-21 01:41:10.316 [info] [FolderRepositoryManager+1] Found GitHub remote for folder /home/nana/Documents/Home-lab
+2025-06-21 01:41:10.435 [info] [FolderRepositoryManager+0] Found GitHub remote for folder /home/nana/Documents/workspace
+2025-06-21 01:41:10.819 [info] [Activation] Repo state for file:///home/nana/Documents/Home-lab changed.
+2025-06-21 01:41:10.819 [info] [Activation] Repo file:///home/nana/Documents/Home-lab has already been setup.
+2025-06-21 01:41:10.850 [info] [FolderRepositoryManager+0] Trying to use globalState for assignableUsers.
+2025-06-21 01:41:11.037 [info] [Review+0] No matching pull request metadata found locally for current branch main
+2025-06-21 01:41:11.075 [info] [FolderRepositoryManager+0] No globalState for assignableUsers.
+2025-06-21 01:41:11.113 [info] [FolderRepositoryManager+1] Trying to use globalState for assignableUsers.
+2025-06-21 01:41:11.217 [info] [Review+1] No matching pull request metadata found locally for current branch main
+2025-06-21 01:41:11.250 [info] [FolderRepositoryManager+1] Using globalState assignableUsers for 1.
+2025-06-21 01:41:11.567 [info] [Review+0] No matching pull request metadata found on GitHub for current branch main
+2025-06-21 01:41:11.581 [info] [Review+1] No matching pull request metadata found on GitHub for current branch main

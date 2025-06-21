@@ -1,0 +1,200 @@
+2025-06-06 01:09:44.126 [info] ComputeTargetPlatform: linux-x64
+2025-06-06 01:10:30.393 [info] ComputeTargetPlatform: linux-x64
+2025-06-06 01:10:43.686 [info] Getting Manifest... ms-python.python
+2025-06-06 01:10:43.913 [info] Installing extension: ms-python.python {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nana/.vscode/extensions/extensions.json","path":"/home/nana/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"}}
+2025-06-06 01:10:44.533 [info] Getting Manifest... ms-python.vscode-pylance
+2025-06-06 01:10:44.586 [info] Getting Manifest... ms-python.debugpy
+2025-06-06 01:10:44.726 [info] Installing extension: ms-python.vscode-pylance {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nana/.vscode/extensions/extensions.json","path":"/home/nana/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2025-06-06 01:10:44.727 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nana/.vscode/extensions/extensions.json","path":"/home/nana/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2025-06-06 01:10:57.502 [info] Getting Manifest... ritwickdey.liveserver
+2025-06-06 01:10:57.745 [info] Installing extension: ritwickdey.liveserver {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nana/.vscode/extensions/extensions.json","path":"/home/nana/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"}}
+2025-06-06 01:11:00.450 [info] Extension signature verification result for ms-python.python: Success. Internal Code: 0. Executed: true. Duration: 7571ms.
+2025-06-06 01:11:00.601 [info] Extension signature verification result for ms-python.debugpy: Success. Internal Code: 0. Executed: true. Duration: 6661ms.
+2025-06-06 01:11:03.366 [info] Getting Manifest... esbenp.prettier-vscode
+2025-06-06 01:11:03.555 [info] Installing extension: esbenp.prettier-vscode {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nana/.vscode/extensions/extensions.json","path":"/home/nana/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"}}
+2025-06-06 01:11:06.322 [info] Extension signature verification result for ritwickdey.liveserver: Success. Internal Code: 0. Executed: true. Duration: 6127ms.
+2025-06-06 01:11:06.569 [info] Extracted extension to file:///home/nana/.vscode/extensions/ms-python.debugpy-2025.8.0-linux-x64: ms-python.debugpy
+2025-06-06 01:11:06.766 [info] Renamed to /home/nana/.vscode/extensions/ms-python.debugpy-2025.8.0-linux-x64
+2025-06-06 01:11:09.387 [info] Extension signature verification result for esbenp.prettier-vscode: Success. Internal Code: 0. Executed: true. Duration: 4751ms.
+2025-06-06 01:11:10.112 [info] Extracted extension to file:///home/nana/.vscode/extensions/esbenp.prettier-vscode-11.0.0: esbenp.prettier-vscode
+2025-06-06 01:11:10.133 [info] Renamed to /home/nana/.vscode/extensions/esbenp.prettier-vscode-11.0.0
+2025-06-06 01:11:10.209 [info] Extension installed successfully: esbenp.prettier-vscode vscode-userdata:/home/nana/.vscode/extensions/extensions.json
+2025-06-06 01:11:16.206 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Internal Code: 0. Executed: true. Duration: 5923ms.
+2025-06-06 01:11:17.158 [info] Getting Manifest... redhat.java
+2025-06-06 01:11:17.315 [info] Installing extension: redhat.java {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nana/.vscode/extensions/extensions.json","path":"/home/nana/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"}}
+2025-06-06 01:11:17.912 [info] Extracted extension to file:///home/nana/.vscode/extensions/ms-python.python-2025.6.1-linux-x64: ms-python.python
+2025-06-06 01:11:18.402 [info] Renamed to /home/nana/.vscode/extensions/ms-python.python-2025.6.1-linux-x64
+2025-06-06 01:11:21.894 [info] Getting Manifest... dbaeumer.vscode-eslint
+2025-06-06 01:11:22.111 [info] Installing extension: dbaeumer.vscode-eslint {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nana/.vscode/extensions/extensions.json","path":"/home/nana/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"}}
+2025-06-06 01:11:28.242 [info] Extension signature verification result for dbaeumer.vscode-eslint: Success. Internal Code: 0. Executed: true. Duration: 5314ms.
+2025-06-06 01:11:28.391 [info] Extracted extension to file:///home/nana/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10: dbaeumer.vscode-eslint
+2025-06-06 01:11:28.430 [info] Renamed to /home/nana/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10
+2025-06-06 01:11:28.537 [info] Extension installed successfully: dbaeumer.vscode-eslint vscode-userdata:/home/nana/.vscode/extensions/extensions.json
+2025-06-06 01:11:29.164 [info] Getting Manifest... eamodio.gitlens
+2025-06-06 01:11:29.577 [info] Installing extension: eamodio.gitlens {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nana/.vscode/extensions/extensions.json","path":"/home/nana/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"}}
+2025-06-06 01:11:34.119 [info] Getting Manifest... github.copilot
+2025-06-06 01:11:34.651 [info] Installing extension: github.copilot {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nana/.vscode/extensions/extensions.json","path":"/home/nana/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"}}
+2025-06-06 01:11:35.317 [info] Getting Manifest... github.copilot-chat
+2025-06-06 01:11:35.935 [info] Installing extension: github.copilot-chat {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nana/.vscode/extensions/extensions.json","path":"/home/nana/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2025-06-06 01:11:37.676 [info] Extracted extension to file:///home/nana/.vscode/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2025-06-06 01:11:39.484 [info] Renamed to /home/nana/.vscode/extensions/ritwickdey.liveserver-5.7.9
+2025-06-06 01:11:39.581 [info] Extension installed successfully: ritwickdey.liveserver vscode-userdata:/home/nana/.vscode/extensions/extensions.json
+2025-06-06 01:11:39.970 [info] Extension signature verification result for eamodio.gitlens: Success. Internal Code: 0. Executed: true. Duration: 5812ms.
+2025-06-06 01:11:43.114 [info] Extracted extension to file:///home/nana/.vscode/extensions/eamodio.gitlens-17.1.1: eamodio.gitlens
+2025-06-06 01:11:43.221 [info] Renamed to /home/nana/.vscode/extensions/eamodio.gitlens-17.1.1
+2025-06-06 01:11:43.359 [info] Extension installed successfully: eamodio.gitlens vscode-userdata:/home/nana/.vscode/extensions/extensions.json
+2025-06-06 01:11:44.384 [info] Getting Manifest... pkief.material-icon-theme
+2025-06-06 01:11:45.538 [info] Installing extension: pkief.material-icon-theme {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nana/.vscode/extensions/extensions.json","path":"/home/nana/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"}}
+2025-06-06 01:11:46.951 [info] Getting Manifest... github.vscode-pull-request-github
+2025-06-06 01:11:47.067 [info] Installing extension: github.vscode-pull-request-github {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nana/.vscode/extensions/extensions.json","path":"/home/nana/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"}}
+2025-06-06 01:11:51.419 [info] Extension signature verification result for github.copilot: Success. Internal Code: 0. Executed: true. Duration: 7626ms.
+2025-06-06 01:11:54.939 [info] Extension signature verification result for pkief.material-icon-theme: Success. Internal Code: 0. Executed: true. Duration: 7017ms.
+2025-06-06 01:11:55.738 [info] Getting Manifest... ecmel.vscode-html-css
+2025-06-06 01:11:56.032 [info] Extension signature verification result for github.copilot-chat: Success. Internal Code: 0. Executed: true. Duration: 9370ms.
+2025-06-06 01:11:56.420 [info] Installing extension: ecmel.vscode-html-css {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nana/.vscode/extensions/extensions.json","path":"/home/nana/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"}}
+2025-06-06 01:11:56.754 [info] Extension signature verification result for github.vscode-pull-request-github: Success. Internal Code: 0. Executed: true. Duration: 4860ms.
+2025-06-06 01:11:58.653 [info] Extracted extension to file:///home/nana/.vscode/extensions/github.vscode-pull-request-github-0.110.0: github.vscode-pull-request-github
+2025-06-06 01:11:58.778 [info] Renamed to /home/nana/.vscode/extensions/github.vscode-pull-request-github-0.110.0
+2025-06-06 01:11:59.114 [info] Extension installed successfully: github.vscode-pull-request-github vscode-userdata:/home/nana/.vscode/extensions/extensions.json
+2025-06-06 01:12:02.364 [info] Extracted extension to file:///home/nana/.vscode/extensions/github.copilot-chat-0.27.3: github.copilot-chat
+2025-06-06 01:12:02.488 [info] Renamed to /home/nana/.vscode/extensions/github.copilot-chat-0.27.3
+2025-06-06 01:12:02.517 [info] Extension signature verification result for ecmel.vscode-html-css: Success. Internal Code: 0. Executed: true. Duration: 5510ms.
+2025-06-06 01:12:03.075 [info] Extracted extension to file:///home/nana/.vscode/extensions/ecmel.vscode-html-css-2.0.13: ecmel.vscode-html-css
+2025-06-06 01:12:03.117 [info] Renamed to /home/nana/.vscode/extensions/ecmel.vscode-html-css-2.0.13
+2025-06-06 01:12:03.330 [info] Extension installed successfully: ecmel.vscode-html-css vscode-userdata:/home/nana/.vscode/extensions/extensions.json
+2025-06-06 01:12:03.782 [info] Extension signature verification result for redhat.java: Success. Internal Code: 0. Executed: true. Duration: 8718ms.
+2025-06-06 01:12:03.930 [info] Extracted extension to file:///home/nana/.vscode/extensions/github.copilot-1.330.0: github.copilot
+2025-06-06 01:12:04.069 [info] Renamed to /home/nana/.vscode/extensions/github.copilot-1.330.0
+2025-06-06 01:12:04.190 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/nana/.vscode/extensions/extensions.json
+2025-06-06 01:12:04.191 [info] Extension installed successfully: github.copilot vscode-userdata:/home/nana/.vscode/extensions/extensions.json
+2025-06-06 01:12:05.373 [info] Getting Manifest... formulahendry.auto-rename-tag
+2025-06-06 01:12:05.573 [info] Installing extension: formulahendry.auto-rename-tag {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nana/.vscode/extensions/extensions.json","path":"/home/nana/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"}}
+2025-06-06 01:12:07.260 [info] Getting Manifest... redhat.vscode-yaml
+2025-06-06 01:12:07.309 [info] Installing extension: redhat.vscode-yaml {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nana/.vscode/extensions/extensions.json","path":"/home/nana/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"}}
+2025-06-06 01:12:12.174 [info] Extracted extension to file:///home/nana/.vscode/extensions/pkief.material-icon-theme-5.23.0: pkief.material-icon-theme
+2025-06-06 01:12:12.681 [info] Renamed to /home/nana/.vscode/extensions/pkief.material-icon-theme-5.23.0
+2025-06-06 01:12:12.983 [info] Extension installed successfully: pkief.material-icon-theme vscode-userdata:/home/nana/.vscode/extensions/extensions.json
+2025-06-06 01:12:14.533 [info] Extension signature verification result for formulahendry.auto-rename-tag: Success. Internal Code: 0. Executed: true. Duration: 7729ms.
+2025-06-06 01:12:15.374 [info] Extracted extension to file:///home/nana/.vscode/extensions/formulahendry.auto-rename-tag-0.1.10: formulahendry.auto-rename-tag
+2025-06-06 01:12:15.415 [info] Renamed to /home/nana/.vscode/extensions/formulahendry.auto-rename-tag-0.1.10
+2025-06-06 01:12:15.809 [info] Extension installed successfully: formulahendry.auto-rename-tag vscode-userdata:/home/nana/.vscode/extensions/extensions.json
+2025-06-06 01:12:16.107 [info] Extension signature verification result for redhat.vscode-yaml: Success. Internal Code: 0. Executed: true. Duration: 7399ms.
+2025-06-06 01:12:17.290 [info] Extracted extension to file:///home/nana/.vscode/extensions/redhat.vscode-yaml-1.18.0: redhat.vscode-yaml
+2025-06-06 01:12:17.322 [info] Renamed to /home/nana/.vscode/extensions/redhat.vscode-yaml-1.18.0
+2025-06-06 01:12:17.660 [info] Extension installed successfully: redhat.vscode-yaml vscode-userdata:/home/nana/.vscode/extensions/extensions.json
+2025-06-06 01:12:28.368 [info] Getting Manifest... formulahendry.auto-close-tag
+2025-06-06 01:12:28.606 [info] Installing extension: formulahendry.auto-close-tag {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nana/.vscode/extensions/extensions.json","path":"/home/nana/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"}}
+2025-06-06 01:12:35.105 [info] Extension signature verification result for formulahendry.auto-close-tag: Success. Internal Code: 0. Executed: true. Duration: 5350ms.
+2025-06-06 01:12:35.358 [info] Extracted extension to file:///home/nana/.vscode/extensions/formulahendry.auto-close-tag-0.5.15: formulahendry.auto-close-tag
+2025-06-06 01:12:35.386 [info] Renamed to /home/nana/.vscode/extensions/formulahendry.auto-close-tag-0.5.15
+2025-06-06 01:12:35.555 [info] Extension installed successfully: formulahendry.auto-close-tag vscode-userdata:/home/nana/.vscode/extensions/extensions.json
+2025-06-06 01:12:38.577 [info] Extracted extension to file:///home/nana/.vscode/extensions/redhat.java-1.42.0-linux-x64: redhat.java
+2025-06-06 01:12:38.690 [info] Renamed to /home/nana/.vscode/extensions/redhat.java-1.42.0-linux-x64
+2025-06-06 01:12:38.843 [info] Extension installed successfully: redhat.java vscode-userdata:/home/nana/.vscode/extensions/extensions.json
+2025-06-06 01:12:42.415 [info] Getting Manifest... mhutchie.git-graph
+2025-06-06 01:12:42.640 [info] Installing extension: mhutchie.git-graph {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nana/.vscode/extensions/extensions.json","path":"/home/nana/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"}}
+2025-06-06 01:12:43.555 [info] Extracted extension to file:///home/nana/.vscode/extensions/ms-python.vscode-pylance-2025.5.1: ms-python.vscode-pylance
+2025-06-06 01:12:44.857 [info] Renamed to /home/nana/.vscode/extensions/ms-python.vscode-pylance-2025.5.1
+2025-06-06 01:12:45.011 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/nana/.vscode/extensions/extensions.json
+2025-06-06 01:12:45.013 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/nana/.vscode/extensions/extensions.json
+2025-06-06 01:12:45.014 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/home/nana/.vscode/extensions/extensions.json
+2025-06-06 01:12:49.564 [info] Getting Manifest... yzhang.markdown-all-in-one
+2025-06-06 01:12:49.928 [info] Installing extension: yzhang.markdown-all-in-one {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nana/.vscode/extensions/extensions.json","path":"/home/nana/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"}}
+2025-06-06 01:12:50.477 [info] Extension signature verification result for mhutchie.git-graph: Success. Internal Code: 0. Executed: true. Duration: 5441ms.
+2025-06-06 01:12:51.164 [info] Extracted extension to file:///home/nana/.vscode/extensions/mhutchie.git-graph-1.30.0: mhutchie.git-graph
+2025-06-06 01:12:51.235 [info] Renamed to /home/nana/.vscode/extensions/mhutchie.git-graph-1.30.0
+2025-06-06 01:12:51.604 [info] Extension installed successfully: mhutchie.git-graph vscode-userdata:/home/nana/.vscode/extensions/extensions.json
+2025-06-06 01:12:54.763 [info] Getting Manifest... oderwat.indent-rainbow
+2025-06-06 01:12:55.006 [info] Installing extension: oderwat.indent-rainbow {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nana/.vscode/extensions/extensions.json","path":"/home/nana/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"}}
+2025-06-06 01:12:55.875 [info] Extension signature verification result for yzhang.markdown-all-in-one: Success. Internal Code: 0. Executed: true. Duration: 3960ms.
+2025-06-06 01:12:56.211 [info] Extracted extension to file:///home/nana/.vscode/extensions/yzhang.markdown-all-in-one-3.6.3: yzhang.markdown-all-in-one
+2025-06-06 01:12:56.237 [info] Renamed to /home/nana/.vscode/extensions/yzhang.markdown-all-in-one-3.6.3
+2025-06-06 01:12:56.457 [info] Extension installed successfully: yzhang.markdown-all-in-one vscode-userdata:/home/nana/.vscode/extensions/extensions.json
+2025-06-06 01:13:00.981 [info] Getting Manifest... ms-vscode.live-server
+2025-06-06 01:13:01.126 [info] Installing extension: ms-vscode.live-server {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nana/.vscode/extensions/extensions.json","path":"/home/nana/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"}}
+2025-06-06 01:13:01.613 [info] Extension signature verification result for oderwat.indent-rainbow: Success. Internal Code: 0. Executed: true. Duration: 4518ms.
+2025-06-06 01:13:06.574 [info] Getting Manifest... dracula-theme.theme-dracula
+2025-06-06 01:13:06.725 [info] Installing extension: dracula-theme.theme-dracula {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nana/.vscode/extensions/extensions.json","path":"/home/nana/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"}}
+2025-06-06 01:13:07.063 [info] Extension signature verification result for ms-vscode.live-server: Success. Internal Code: 0. Executed: true. Duration: 4989ms.
+2025-06-06 01:13:07.309 [info] Extracted extension to file:///home/nana/.vscode/extensions/oderwat.indent-rainbow-8.3.1: oderwat.indent-rainbow
+2025-06-06 01:13:07.505 [info] Renamed to /home/nana/.vscode/extensions/oderwat.indent-rainbow-8.3.1
+2025-06-06 01:13:07.627 [info] Extension installed successfully: oderwat.indent-rainbow vscode-userdata:/home/nana/.vscode/extensions/extensions.json
+2025-06-06 01:13:07.660 [info] Extracted extension to file:///home/nana/.vscode/extensions/ms-vscode.live-server-0.4.15: ms-vscode.live-server
+2025-06-06 01:13:07.688 [info] Renamed to /home/nana/.vscode/extensions/ms-vscode.live-server-0.4.15
+2025-06-06 01:13:08.028 [info] Extension installed successfully: ms-vscode.live-server vscode-userdata:/home/nana/.vscode/extensions/extensions.json
+2025-06-06 01:13:11.236 [info] Extension signature verification result for dracula-theme.theme-dracula: Success. Internal Code: 0. Executed: true. Duration: 3531ms.
+2025-06-06 01:13:11.268 [info] Extracted extension to file:///home/nana/.vscode/extensions/dracula-theme.theme-dracula-2.25.1: dracula-theme.theme-dracula
+2025-06-06 01:13:11.276 [info] Renamed to /home/nana/.vscode/extensions/dracula-theme.theme-dracula-2.25.1
+2025-06-06 01:13:11.356 [info] Extension installed successfully: dracula-theme.theme-dracula vscode-userdata:/home/nana/.vscode/extensions/extensions.json
+2025-06-06 01:13:11.679 [info] Getting Manifest... aaron-bond.better-comments
+2025-06-06 01:13:11.825 [info] Installing extension: aaron-bond.better-comments {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nana/.vscode/extensions/extensions.json","path":"/home/nana/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"}}
+2025-06-06 01:13:16.107 [info] Extension signature verification result for aaron-bond.better-comments: Success. Internal Code: 0. Executed: true. Duration: 3322ms.
+2025-06-06 01:13:16.307 [info] Extracted extension to file:///home/nana/.vscode/extensions/aaron-bond.better-comments-3.0.2: aaron-bond.better-comments
+2025-06-06 01:13:16.335 [info] Renamed to /home/nana/.vscode/extensions/aaron-bond.better-comments-3.0.2
+2025-06-06 01:13:16.486 [info] Extension installed successfully: aaron-bond.better-comments vscode-userdata:/home/nana/.vscode/extensions/extensions.json
+2025-06-06 01:13:26.346 [info] Getting Manifest... naumovs.color-highlight
+2025-06-06 01:13:26.507 [info] Installing extension: naumovs.color-highlight {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nana/.vscode/extensions/extensions.json","path":"/home/nana/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"}}
+2025-06-06 01:13:30.692 [info] Extension signature verification result for naumovs.color-highlight: Success. Internal Code: 0. Executed: true. Duration: 3122ms.
+2025-06-06 01:13:31.377 [info] Extracted extension to file:///home/nana/.vscode/extensions/naumovs.color-highlight-2.8.0: naumovs.color-highlight
+2025-06-06 01:13:31.458 [info] Renamed to /home/nana/.vscode/extensions/naumovs.color-highlight-2.8.0
+2025-06-06 01:13:31.549 [info] Extension installed successfully: naumovs.color-highlight vscode-userdata:/home/nana/.vscode/extensions/extensions.json
+2025-06-06 01:13:48.202 [info] Getting Manifest... shd101wyy.markdown-preview-enhanced
+2025-06-06 01:13:48.367 [info] Installing extension: shd101wyy.markdown-preview-enhanced {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nana/.vscode/extensions/extensions.json","path":"/home/nana/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"}}
+2025-06-06 01:13:57.591 [info] Extension signature verification result for shd101wyy.markdown-preview-enhanced: Success. Internal Code: 0. Executed: true. Duration: 1766ms.
+2025-06-06 01:13:57.621 [info] Getting Manifest... mikestead.dotenv
+2025-06-06 01:13:57.770 [info] Installing extension: mikestead.dotenv {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nana/.vscode/extensions/extensions.json","path":"/home/nana/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"}}
+2025-06-06 01:14:00.143 [info] Extracted extension to file:///home/nana/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.8.18: shd101wyy.markdown-preview-enhanced
+2025-06-06 01:14:00.187 [info] Renamed to /home/nana/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.8.18
+2025-06-06 01:14:00.388 [info] Extension installed successfully: shd101wyy.markdown-preview-enhanced vscode-userdata:/home/nana/.vscode/extensions/extensions.json
+2025-06-06 01:14:02.732 [info] Extension signature verification result for mikestead.dotenv: Success. Internal Code: 0. Executed: true. Duration: 4215ms.
+2025-06-06 01:14:02.809 [info] Extracted extension to file:///home/nana/.vscode/extensions/mikestead.dotenv-1.0.1: mikestead.dotenv
+2025-06-06 01:14:02.830 [info] Renamed to /home/nana/.vscode/extensions/mikestead.dotenv-1.0.1
+2025-06-06 01:14:03.096 [info] Extension installed successfully: mikestead.dotenv vscode-userdata:/home/nana/.vscode/extensions/extensions.json
+2025-06-06 01:14:03.995 [info] Getting Manifest... usernamehw.errorlens
+2025-06-06 01:14:04.228 [info] Installing extension: usernamehw.errorlens {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nana/.vscode/extensions/extensions.json","path":"/home/nana/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"}}
+2025-06-06 01:14:08.253 [info] Extension signature verification result for usernamehw.errorlens: Success. Internal Code: 0. Executed: true. Duration: 3371ms.
+2025-06-06 01:14:08.324 [info] Extracted extension to file:///home/nana/.vscode/extensions/usernamehw.errorlens-3.26.0: usernamehw.errorlens
+2025-06-06 01:14:08.377 [info] Renamed to /home/nana/.vscode/extensions/usernamehw.errorlens-3.26.0
+2025-06-06 01:14:08.495 [info] Extension installed successfully: usernamehw.errorlens vscode-userdata:/home/nana/.vscode/extensions/extensions.json
+2025-06-06 01:14:18.498 [info] Getting Manifest... wayou.vscode-todo-highlight
+2025-06-06 01:14:18.624 [info] Installing extension: wayou.vscode-todo-highlight {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nana/.vscode/extensions/extensions.json","path":"/home/nana/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"}}
+2025-06-06 01:14:23.168 [info] Extension signature verification result for wayou.vscode-todo-highlight: Success. Internal Code: 0. Executed: true. Duration: 3444ms.
+2025-06-06 01:14:23.263 [info] Extracted extension to file:///home/nana/.vscode/extensions/wayou.vscode-todo-highlight-1.0.5: wayou.vscode-todo-highlight
+2025-06-06 01:14:23.312 [info] Renamed to /home/nana/.vscode/extensions/wayou.vscode-todo-highlight-1.0.5
+2025-06-06 01:14:23.466 [info] Extension installed successfully: wayou.vscode-todo-highlight vscode-userdata:/home/nana/.vscode/extensions/extensions.json
+2025-06-06 01:14:39.964 [info] Getting Manifest... alefragnani.bookmarks
+2025-06-06 01:14:40.707 [info] Installing extension: alefragnani.bookmarks {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nana/.vscode/extensions/extensions.json","path":"/home/nana/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"}}
+2025-06-06 01:14:48.320 [info] Extension signature verification result for alefragnani.bookmarks: Success. Internal Code: 0. Executed: true. Duration: 3749ms.
+2025-06-06 01:14:48.920 [info] Extracted extension to file:///home/nana/.vscode/extensions/alefragnani.bookmarks-13.5.0: alefragnani.bookmarks
+2025-06-06 01:14:48.945 [info] Renamed to /home/nana/.vscode/extensions/alefragnani.bookmarks-13.5.0
+2025-06-06 01:14:49.175 [info] Extension installed successfully: alefragnani.bookmarks vscode-userdata:/home/nana/.vscode/extensions/extensions.json
+2025-06-06 01:15:16.614 [info] Getting Manifest... tamasfe.even-better-toml
+2025-06-06 01:15:16.770 [info] Installing extension: tamasfe.even-better-toml {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nana/.vscode/extensions/extensions.json","path":"/home/nana/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"}}
+2025-06-06 01:15:20.830 [info] Getting Manifest... adpyke.codesnap
+2025-06-06 01:15:21.346 [info] Installing extension: adpyke.codesnap {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nana/.vscode/extensions/extensions.json","path":"/home/nana/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"}}
+2025-06-06 01:15:26.214 [info] Extension signature verification result for tamasfe.even-better-toml: Success. Internal Code: 0. Executed: true. Duration: 4889ms.
+2025-06-06 01:15:26.575 [info] Getting Manifest... stylelint.vscode-stylelint
+2025-06-06 01:15:26.887 [info] Installing extension: stylelint.vscode-stylelint {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nana/.vscode/extensions/extensions.json","path":"/home/nana/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"}}
+2025-06-06 01:15:27.091 [info] Extension signature verification result for adpyke.codesnap: Success. Internal Code: 0. Executed: true. Duration: 4474ms.
+2025-06-06 01:15:31.227 [info] Extracted extension to file:///home/nana/.vscode/extensions/tamasfe.even-better-toml-0.21.2: tamasfe.even-better-toml
+2025-06-06 01:15:31.257 [info] Renamed to /home/nana/.vscode/extensions/tamasfe.even-better-toml-0.21.2
+2025-06-06 01:15:31.440 [info] Extension installed successfully: tamasfe.even-better-toml vscode-userdata:/home/nana/.vscode/extensions/extensions.json
+2025-06-06 01:15:32.575 [info] Extension signature verification result for stylelint.vscode-stylelint: Success. Internal Code: 0. Executed: true. Duration: 4836ms.
+2025-06-06 01:15:32.708 [info] Extracted extension to file:///home/nana/.vscode/extensions/stylelint.vscode-stylelint-1.5.3: stylelint.vscode-stylelint
+2025-06-06 01:15:32.728 [info] Renamed to /home/nana/.vscode/extensions/stylelint.vscode-stylelint-1.5.3
+2025-06-06 01:15:32.914 [info] Extension installed successfully: stylelint.vscode-stylelint vscode-userdata:/home/nana/.vscode/extensions/extensions.json
+2025-06-06 01:15:35.448 [info] Extracted extension to file:///home/nana/.vscode/extensions/adpyke.codesnap-1.3.4: adpyke.codesnap
+2025-06-06 01:15:35.664 [info] Renamed to /home/nana/.vscode/extensions/adpyke.codesnap-1.3.4
+2025-06-06 01:15:35.826 [info] Extension installed successfully: adpyke.codesnap vscode-userdata:/home/nana/.vscode/extensions/extensions.json
+2025-06-06 01:15:36.104 [info] Getting Manifest... shardulm94.trailing-spaces
+2025-06-06 01:15:36.253 [info] Installing extension: shardulm94.trailing-spaces {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nana/.vscode/extensions/extensions.json","path":"/home/nana/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"}}
+2025-06-06 01:15:40.123 [info] Extension signature verification result for shardulm94.trailing-spaces: Success. Internal Code: 0. Executed: true. Duration: 3133ms.
+2025-06-06 01:15:40.318 [info] Extracted extension to file:///home/nana/.vscode/extensions/shardulm94.trailing-spaces-0.4.1: shardulm94.trailing-spaces
+2025-06-06 01:15:40.370 [info] Renamed to /home/nana/.vscode/extensions/shardulm94.trailing-spaces-0.4.1
+2025-06-06 01:15:40.505 [info] Extension installed successfully: shardulm94.trailing-spaces vscode-userdata:/home/nana/.vscode/extensions/extensions.json
+2025-06-06 01:16:05.833 [info] Getting Manifest... almenon.arepl
+2025-06-06 01:16:06.033 [info] Installing extension: almenon.arepl {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nana/.vscode/extensions/extensions.json","path":"/home/nana/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"}}
+2025-06-06 01:16:11.621 [info] Extension signature verification result for almenon.arepl: Success. Internal Code: 0. Executed: true. Duration: 3401ms.
+2025-06-06 01:16:13.956 [info] Extracted extension to file:///home/nana/.vscode/extensions/almenon.arepl-3.0.0: almenon.arepl
+2025-06-06 01:16:14.075 [info] Renamed to /home/nana/.vscode/extensions/almenon.arepl-3.0.0
+2025-06-06 01:16:14.276 [info] Extension installed successfully: almenon.arepl vscode-userdata:/home/nana/.vscode/extensions/extensions.json

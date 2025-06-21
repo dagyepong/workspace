@@ -1,0 +1,22 @@
+2025-06-10 11:38:36.396 [info] Started local extension host with pid 138608.
+2025-06-10 11:38:37.430 [info] ComputeTargetPlatform: linux-x64
+2025-06-10 11:38:40.675 [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+2025-06-10 11:38:44.819 [info] Auto updating outdated extensions. github.copilot
+2025-06-10 11:38:47.243 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-06-10 11:38:49.265 [info] [perf] Render performance baseline is 171ms
+2025-06-10 11:38:50.180 [info] Extension host (LocalProcess pid: 138608) is unresponsive.
+2025-06-10 11:38:51.786 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-06-10 11:38:52.828 [info] Extension host (LocalProcess pid: 138608) is responsive.
+2025-06-10 11:38:52.829 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-06-10 11:39:00.800 [error] request to https://configs.gitkraken.dev/gitlens/product.json failed, reason: 
+2025-06-10 11:39:04.561 [error] [Extension Host] [default] Error sending telemetry FetchError: The operation was aborted
+    at fetch (/home/nana/.vscode/extensions/github.copilot-1.330.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/nana/.vscode/extensions/github.copilot-1.330.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at Y1.fetch (/home/nana/.vscode/extensions/github.copilot-1.330.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ABORT_ERR',
+  errno: undefined,
+  erroredSysCall: undefined
+}

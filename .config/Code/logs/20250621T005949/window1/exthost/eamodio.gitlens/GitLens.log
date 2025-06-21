@@ -1,0 +1,8 @@
+2025-06-21 01:00:12.686 [info] GitLens v17.1.1 activating in Visual Studio Code (1.100.3) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (45866303d1729c83ab36f4d83b2ae310bb853ac769b5891b86e4c74c6bc5724e|962863a9-092d-47c3-b20a-fae0e0fbe1881750485591431)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+
+2025-06-21 01:00:12.686 [info] [2025-06-21 06:00:10.360] [GIT    *840ms] [/home/nana/Documents/Home-lab] git rev-parse --show-toplevel [*840ms] (slow)
+
+2025-06-21 01:40:58.986 [info] GitLens v17.1.1 activating in Visual Studio Code (1.100.3) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (45866303d1729c83ab36f4d83b2ae310bb853ac769b5891b86e4c74c6bc5724e|962863a9-092d-47c3-b20a-fae0e0fbe1881750485591431)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+

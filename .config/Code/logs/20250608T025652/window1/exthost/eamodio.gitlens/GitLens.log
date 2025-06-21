@@ -1,0 +1,7 @@
+2025-06-08 02:57:15.797 [info] GitLens v17.1.1 activating in Visual Studio Code (1.100.3) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (45866303d1729c83ab36f4d83b2ae310bb853ac769b5891b86e4c74c6bc5724e|6d206eb1-7e5c-4831-a827-7296dafc7f5c1749369413957)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+
+2025-06-08 02:57:15.797 [info] [2025-06-08 07:57:14.047] [GIT   *1147ms] [/home/nana/Documents/Home-lab] git rev-parse --show-toplevel [*1147ms] (slow)
+
+2025-06-08 03:06:40.964 [info] [2025-06-08 08:06:40.460] [GIT    *604ms] [/home/nana/Documents/Home-lab] git blame --root --incremental -- traefik-v3/READme.md [*604ms] (slow)
+

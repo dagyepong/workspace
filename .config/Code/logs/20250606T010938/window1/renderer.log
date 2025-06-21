@@ -1,0 +1,47 @@
+2025-06-06 01:09:42.319 [info] Started local extension host with pid 77641.
+2025-06-06 01:09:42.727 [info] Started initializing default profile extensions in extensions installation folder. file:///home/nana/.vscode/extensions
+2025-06-06 01:09:43.473 [info] ComputeTargetPlatform: linux-x64
+2025-06-06 01:09:43.643 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/nana/.vscode/extensions
+2025-06-06 01:09:43.700 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-06-06 01:09:45.277 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-06-06 01:09:47.786 [info] [perf] Render performance baseline is 76ms
+2025-06-06 01:11:50.424 [info] Extension host (LocalProcess pid: 77641) is unresponsive.
+2025-06-06 01:11:51.375 [info] Extension host (LocalProcess pid: 77641) is responsive.
+2025-06-06 01:11:52.619 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-06-06 01:11:55.541 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-06-06 01:12:11.685 [info] Extension host (LocalProcess pid: 77641) is unresponsive.
+2025-06-06 01:12:16.330 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-06-06 01:12:18.670 [info] Extension host (LocalProcess pid: 77641) is responsive.
+2025-06-06 01:12:18.673 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-06-06 01:12:21.611 [warning] UNRESPONSIVE extension host: 'github.copilot' took 56.79467963170556% of 1668.367ms, saved PROFILE here: 'file:///tmp/exthost-ec1d2f.cpuprofile'
+2025-06-06 01:12:22.817 [error] Error: Aborted onWillSaveTextDocument-event after 1750ms
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1300:10062
+2025-06-06 01:12:29.074 [error] CodeExpectedError: No default agent registered
+    at SCe.activateDefaultAgent (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1986:32522)
+2025-06-06 01:12:38.823 [info] Extension host (LocalProcess pid: 77641) is unresponsive.
+2025-06-06 01:12:40.765 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-06-06 01:12:41.430 [info] Extension host (LocalProcess pid: 77641) is responsive.
+2025-06-06 01:12:41.431 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-06-06 01:12:41.871 [warning] [redhat.java]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+2025-06-06 01:12:43.521 [warning] UNRESPONSIVE extension host: 'formulahendry.auto-rename-tag' took 98.03815978554832% of 659.038ms, saved PROFILE here: 'file:///tmp/exthost-b8f661.cpuprofile'
+2025-06-06 01:18:26.531 [error] An unknown error occurred. Please consult the log for more details.
+2025-06-06 01:18:27.119 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-06-06 01:18:27.120 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-06-06 01:18:27.316 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-06-06 01:18:27.319 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess
+2025-06-06 01:19:00.817 [error] [Extension Host] (node:77641) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-06-06 01:19:07.397 [info] Started local extension host with pid 79515.
+2025-06-06 01:19:09.508 [info] ComputeTargetPlatform: linux-x64
+2025-06-06 01:19:09.655 [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+2025-06-06 01:19:11.077 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-06-06 01:19:12.871 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-06-06 01:19:15.214 [info] [perf] Render performance baseline is 129ms
+2025-06-06 01:19:32.835 [info] Extension host (LocalProcess pid: 79515) is unresponsive.
+2025-06-06 01:19:32.967 [info] Extension host (LocalProcess pid: 79515) is responsive.
+2025-06-06 01:19:32.968 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-06-06 01:19:35.296 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-06-06 01:19:37.793 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-06-06 01:19:37.794 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-06-06 01:19:37.841 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-06-06 01:19:37.846 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess

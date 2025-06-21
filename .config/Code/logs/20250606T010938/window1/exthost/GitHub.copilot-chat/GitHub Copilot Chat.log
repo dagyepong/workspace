@@ -1,0 +1,84 @@
+2025-06-06 01:12:23.856 [info] Using the Electron fetcher.
+2025-06-06 01:12:23.856 [info] Initializing Git extension service.
+2025-06-06 01:12:23.856 [info] Successfully activated the vscode.git extension.
+2025-06-06 01:12:23.856 [info] Enablement state of the vscode.git extension: true.
+2025-06-06 01:12:23.856 [info] Successfully registered Git commit message provider.
+2025-06-06 01:12:28.608 [warning] GitHub login failed
+2025-06-06 01:12:28.790 [error] Error: GitHubLoginFailed
+    at d6._authShowWarnings (/home/nana/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:481:49285)
+    at d6.getCopilotToken (/home/nana/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:481:47813)
+    at C5.getCopilotToken (/home/nana/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:423:3583)
+    at lE.waitForChatEnabled (/home/nana/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:441:18705)
+    at lE.run (/home/nana/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:441:18589)
+    at D4.askToUpgradeAuthPermissions (/home/nana/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:441:17960): Failed to get copilot token
+2025-06-06 01:12:28.790 [error] You are not signed in to GitHub. Please sign in to use Copilot.
+2025-06-06 01:12:28.791 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-06-06 01:12:28.791 [error] Error: GitHubLoginFailed
+    at d6._authShowWarnings (/home/nana/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:481:49285)
+    at d6.getCopilotToken (/home/nana/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:481:47813)
+    at C5.getCopilotToken (/home/nana/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:423:3583)
+    at YL._getAuthSession (/home/nana/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:478:3976)
+    at Object.n [as task] (/home/nana/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:478:730)
+    at mp._processQueue (/home/nana/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:471:15854)
+2025-06-06 01:12:28.792 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-06-06 01:12:28.792 [error] Error: GitHubLoginFailed
+    at d6._authShowWarnings (/home/nana/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:481:49285)
+    at d6.getCopilotToken (/home/nana/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:481:47813)
+    at C5.getCopilotToken (/home/nana/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:423:3583)
+    at YL._getAuthSession (/home/nana/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:478:3976)
+    at t (/home/nana/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:478:3439)
+    at YL._registerEmbeddings (/home/nana/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:478:3938)
+    at async Promise.all (index 1)
+    at async Promise.allSettled (index 0)
+    at Hb.waitForActivationBlockers (/home/nana/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:423:2184)
+    at /home/nana/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:2382:7090
+    at tln (/home/nana/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:2382:6903)
+    at Nb.n (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:13382)
+    at Nb.m (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:13345)
+    at Nb.l (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:12801)
+2025-06-06 01:12:28.793 [info] activationBlocker from 'languageModelAccess' took for 5594ms
+2025-06-06 01:12:29.261 [warning] GitHub login failed
+2025-06-06 01:12:29.271 [info] copilot token chat_enabled: undefined, sku: 
+2025-06-06 01:12:29.533 [warning] GitHub login failed
+2025-06-06 01:12:29.556 [error] You are not signed in to GitHub. Please sign in to use Copilot.
+2025-06-06 01:12:29.558 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-06-06 01:12:29.559 [error] Error: GitHubLoginFailed
+    at d6._authShowWarnings (/home/nana/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:481:49285)
+    at d6.getCopilotToken (/home/nana/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:481:47813)
+    at C5.getCopilotToken (/home/nana/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:423:3583)
+    at YL._getAuthSession (/home/nana/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:478:3976)
+    at Object.n [as task] (/home/nana/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:478:730)
+    at mp._processQueue (/home/nana/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:471:15854)
+2025-06-06 01:12:29.561 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-06-06 01:12:29.562 [error] Error: GitHubLoginFailed
+    at d6._authShowWarnings (/home/nana/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:481:49285)
+    at d6.getCopilotToken (/home/nana/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:481:47813)
+    at C5.getCopilotToken (/home/nana/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:423:3583)
+    at YL._getAuthSession (/home/nana/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:478:3976)
+    at t (/home/nana/.vscode/extensions/github.copilot-chat-0.27.3/dist/extension.js:478:3439)
+2025-06-06 01:18:25.763 [info] Logged in as dagyepong
+2025-06-06 01:18:26.715 [info] Got Copilot token for dagyepong
+2025-06-06 01:18:27.264 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-06 01:18:27.287 [info] Registering default platform agent...
+2025-06-06 01:18:27.290 [info] Successfully activated the GitHub.vscode-pull-request-github extension.
+2025-06-06 01:18:27.290 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2025-06-06 01:18:27.290 [info] Successfully registered GitHub PR title and description provider.
+2025-06-06 01:18:27.290 [info] Successfully registered GitHub PR reviewer comments provider.
+2025-06-06 01:18:27.541 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-06 01:18:32.425 [info] Fetched model metadata in 4978ms ba1b8317-6bca-49c1-a7a3-1975886c7606
+2025-06-06 01:19:24.704 [info] Using the Electron fetcher.
+2025-06-06 01:19:24.704 [info] Initializing Git extension service.
+2025-06-06 01:19:24.704 [info] Successfully activated the vscode.git extension.
+2025-06-06 01:19:24.704 [info] Enablement state of the vscode.git extension: true.
+2025-06-06 01:19:24.704 [info] Successfully registered Git commit message provider.
+2025-06-06 01:19:29.331 [info] Logged in as dagyepong
+2025-06-06 01:19:36.016 [info] Got Copilot token for dagyepong
+2025-06-06 01:19:37.679 [info] Fetched model metadata in 1436ms 7961e17a-9958-4ec8-a002-a83281aff641
+2025-06-06 01:19:37.692 [info] activationBlocker from 'languageModelAccess' took for 12685ms
+2025-06-06 01:19:37.963 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-06 01:19:38.002 [info] Registering default platform agent...
+2025-06-06 01:19:38.031 [info] Successfully activated the GitHub.vscode-pull-request-github extension.
+2025-06-06 01:19:38.031 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2025-06-06 01:19:38.031 [info] Successfully registered GitHub PR title and description provider.
+2025-06-06 01:19:38.031 [info] Successfully registered GitHub PR reviewer comments provider.
+2025-06-06 01:19:38.181 [info] BYOK: Copilot Chat known models list fetched successfully.

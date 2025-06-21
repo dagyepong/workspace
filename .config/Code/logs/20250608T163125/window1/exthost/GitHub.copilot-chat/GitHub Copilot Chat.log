@@ -1,0 +1,28 @@
+2025-06-08 16:31:49.871 [info] Using the Electron fetcher.
+2025-06-08 16:31:49.871 [info] Initializing Git extension service.
+2025-06-08 16:31:49.871 [info] Successfully activated the vscode.git extension.
+2025-06-08 16:31:49.871 [info] Enablement state of the vscode.git extension: true.
+2025-06-08 16:31:49.871 [info] Successfully registered Git commit message provider.
+2025-06-08 16:31:52.478 [info] Logged in as dagyepong
+2025-06-08 16:31:58.267 [info] Got Copilot token for dagyepong
+2025-06-08 16:31:58.944 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-08 16:31:58.955 [info] Registering default platform agent...
+2025-06-08 16:31:58.958 [info] Successfully activated the GitHub.vscode-pull-request-github extension.
+2025-06-08 16:31:58.958 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2025-06-08 16:31:58.958 [info] Successfully registered GitHub PR title and description provider.
+2025-06-08 16:31:58.958 [info] Successfully registered GitHub PR reviewer comments provider.
+2025-06-08 16:31:59.437 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-08 16:32:00.287 [info] Fetched model metadata in 1991ms 3aa8f41c-56cf-4f7c-966c-90f63f8f835b
+2025-06-08 16:32:00.521 [info] activationBlocker from 'languageModelAccess' took for 9334ms
+2025-06-08 17:02:02.222 [info] Logged in as dagyepong
+2025-06-08 17:02:03.735 [info] Got Copilot token for dagyepong
+2025-06-08 17:02:03.786 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-08 17:02:03.912 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-08 17:32:03.893 [info] Logged in as dagyepong
+2025-06-08 17:32:05.324 [info] Got Copilot token for dagyepong
+2025-06-08 17:32:05.366 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-08 17:32:06.045 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-08 18:02:05.422 [info] Logged in as dagyepong
+2025-06-08 18:02:08.162 [info] Got Copilot token for dagyepong
+2025-06-08 18:02:08.185 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-08 18:02:09.183 [info] BYOK: Copilot Chat known models list fetched successfully.

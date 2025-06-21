@@ -1,0 +1,11 @@
+2025-06-06 02:32:25.427 [info] [main] Log level: Info
+2025-06-06 02:32:25.427 [info] [main] Validating found git in: "git"
+2025-06-06 02:32:25.427 [info] [main] Using git "2.49.0" from "git"
+2025-06-06 02:32:25.427 [info] [Model][doInitialScan] Initial repository scan started
+2025-06-06 02:32:25.427 [info] > git rev-parse --show-toplevel [87ms]
+2025-06-06 02:32:25.429 [info] > git rev-parse --git-dir --git-common-dir [33ms]
+2025-06-06 02:32:25.464 [info] [Model][openRepository] Opened repository (path): /home/nana/Documents/Home-lab
+2025-06-06 02:32:25.464 [info] [Model][openRepository] Opened repository (real path): /home/nana/Documents/Home-lab
+2025-06-06 02:32:25.593 [info] > git rev-parse --show-toplevel [33ms]
+2025-06-06 02:32:25.594 [info] > git config --get commit.template [51ms]
+2025-06-06 02:32:30.678 [info] > git check-ignore -v -z --stdin [449ms]

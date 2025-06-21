@@ -1,0 +1,14 @@
+2025-06-08 02:56:55.448 [info] Started local extension host with pid 8363.
+2025-06-08 02:56:55.990 [info] ComputeTargetPlatform: linux-x64
+2025-06-08 02:56:58.572 [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+2025-06-08 02:57:05.646 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-06-08 02:57:07.400 [info] [perf] Render performance baseline is 162ms
+2025-06-08 02:57:08.242 [info] Extension host (LocalProcess pid: 8363) is unresponsive.
+2025-06-08 02:57:09.952 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-06-08 02:57:10.944 [info] Extension host (LocalProcess pid: 8363) is responsive.
+2025-06-08 02:57:10.945 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-06-08 03:06:34.555 [info] Extension host (LocalProcess pid: 8363) is unresponsive.
+2025-06-08 03:06:37.267 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-06-08 03:06:39.494 [info] Extension host (LocalProcess pid: 8363) is responsive.
+2025-06-08 03:06:39.495 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-06-08 03:06:41.028 [warning] UNRESPONSIVE extension host: 'shd101wyy.markdown-preview-enhanced' took 93.11448504781876% of 2118.497ms, saved PROFILE here: 'file:///tmp/exthost-b8883b.cpuprofile'
