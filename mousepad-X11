@@ -6,5 +6,5 @@ Section "InputClass"
     Driver "libinput"
     MatchIsTouchpad "on"
     Option "Tapping" "on"
-    Option "NaturalScrolling" "true": natural (reverse) scrilling
+    Option "NaturalScrolling" "true"
 EndSection
